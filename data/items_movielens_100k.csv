@@ -1,0 +1,1680 @@
+itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,tomatoScore,maxDuration,origin,academyAwardCount,academyNominationCount
+1,Toy Story (1995),Q171048,fails,,G,1,81,United States of America,1,2
+2,GoldenEye (1995),Q19089,passes,,,0.8,130,United States of America|United Kingdom,0,0
+3,Four Rooms (1995),Q1137372,passes,,,0.14,94,United States of America,0,0
+4,Get Shorty (1995),Q261923,,,,0.88,101,United States of America,0,0
+5,Copycat (1995),Q498990,passes,,,0.79,123,United States of America,0,0
+6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Q2276999,,,,0.9,103,France|People's Republic of China,0,1
+7,Twelve Monkeys (1995),Q175038,fails,,,0.88,131,United States of America,0,2
+8,Babe (1995),Q720724,passes,,,0.97,92,United States of America|Australia,1,7
+9,Dead Man Walking (1995),Q587891,passes,,,0.95,122,United States of America,1,3
+10,Richard III (1995),Q2501468,,,,0.96,104,United Kingdom,0,2
+11,Seven (Se7en) (1995),Q190908,fails,,R,0.82,127,United States of America,0,1
+12,"Usual Suspects, The (1995)",Q132351,fails,fails,,0.89,106,United States of America,2,2
+13,Mighty Aphrodite (1995),Q1354109,,,,0.78,95,United States of America,1,2
+14,"Postino, Il (1994)",Q258647,,,,0.94,108,Belgium|Italy|France,1,5
+15,Mr. Holland's Opus (1995),Q564893,passes,,,0.75,140,United States of America,0,1
+16,French Twist (Gazon maudit) (1995),Q1306348,,,,0.55,104,France,0,0
+17,From Dusk Till Dawn (1996),Q196004,fails,,,0.62,104,United States of America,0,0
+18,"White Balloon, The (1995)",Q2355570,,,,,85,Iran,0,0
+19,Antonia's Line (1995),Q155089,passes,,,0.68,96,Netherlands,1,1
+20,Angels and Insects (1995),Q636222,,,,0.71,116,United States of America|United Kingdom,0,1
+21,Muppet Treasure Island (1996),Q1788520,fails,,G,0.7,99,United States of America,0,0
+22,Braveheart (1995),Q162729,fails,,,0.75,177,United States of America,5,10
+23,Taxi Driver (1976),Q47221,fails,,R,0.96,114,United States of America,0,4
+24,Rumble in the Bronx (1995),Q789374,fails,,,0.8,104,Canada|Hong Kong,0,0
+25,"Birdcage, The (1996)",Q1160005,fails,,,0.81,114,United States of America,0,1
+26,"Brothers McMullen, The (1995)",Q1459049,,,,0.87,94,United States of America,0,0
+27,Bad Boys (1995),Q460379,fails,,R,0.42,114,United States of America,0,0
+28,Apollo 13 (1995),Q106428,passes,,PG,0.96,134,United States of America,2,9
+29,Batman Forever (1995),Q221345,fails,,PG-13,0.39,117,United States of America,0,3
+30,Belle de jour (1967),Q470375,passes,,,0.95,101,France,0,0
+31,Crimson Tide (1995),Q1140085,,,R,0.88,111,United States of America,0,3
+32,Crumb (1994),Q435278,,,,,,,0,0
+33,Desperado (1995),Q465009,fails,,,0.66,100,United States of America,0,0
+34,"Doom Generation, The (1995)",Q2479210,,,,0.51,85,United States of America|France,0,0
+35,Free Willy 2: The Adventure Home (1995),Q584057,,,,0.5,95,United States of America,0,0
+36,Mad Love (1995),Q1883105,,,,0.28,93,United States of America,0,0
+37,Nadja (1994),Q400591,,,,,,,0,0
+38,"Net, The (1995)",Q466884,passes,,,0.42,109,United States of America,0,0
+39,Strange Days (1995),Q550529,passes,,R,0.65,139,United States of America,0,0
+40,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Q1759260,passes,,,0.41,105,United States of America,0,0
+41,Billy Madison (1995),Q372299,fails,,,0.42,86,United States of America,0,0
+42,Clerks (1994),Q747877,fails,,R,0.89,92,United States of America,0,0
+43,Disclosure (1994),Q1330619,,,,0.59,123,United States of America,0,0
+44,Dolores Claiborne (1994),Q1236347,passes,,,0.84,126,United States of America,0,0
+45,Eat Drink Man Woman (1994),Q696905,passes,,,0.88,123,Taiwan,0,1
+46,Exotica (1994),Q1384202,,,R,0.97,104,Canada,0,0
+47,Ed Wood (1994),Q639481,passes,,,0.92,127,United States of America,2,2
+48,Hoop Dreams (1994),Q511914,,,,0.98,170,United States of America,0,1
+49,I.Q. (1994),Q499904,fails,,,0.42,92,United States of America,0,0
+50,Star Wars (1977),Q17738,fails,passes,PG,0.93,121,United States of America,7,10
+51,Legends of the Fall (1994),Q913324,passes,,,0.58,128,United States of America,1,3
+52,"Madness of King George, The (1994)",Q581501,,,,0.93,109,United Kingdom,1,4
+53,Natural Born Killers (1994),Q748986,passes,,,0.49,119,United States of America,0,0
+54,Outbreak (1995),Q495513,passes,,,0.59,128,United States of America,0,0
+55,"Professional, The (1994)",Q484675,passes,passes,R,0.74,110,United States of America|France,0,0
+56,Pulp Fiction (1994),Q104123,passes,,R,0.92,154,United States of America,1,7
+57,Priest (1994),Q781835,passes,fails,,0.7,105,United Kingdom,0,0
+58,Quiz Show (1994),Q651722,fails,,,0.96,133,United States of America,0,4
+59,Three Colors: Red (1994),Q72594,,,,,,Poland|Switzerland|France|United Kingdom,0,0
+60,Three Colors: Blue (1993),Q72594,,,,,,Poland|Switzerland|France|United Kingdom,0,0
+61,Three Colors: White (1994),Q72594,,,,,,Poland|Switzerland|France|United Kingdom,0,0
+62,Stargate (1994),Q105801,fails,,PG-13,0.53,121,United States of America|France,0,0
+63,"Santa Clause, The (1994)",Q497850,fails,,,0.72,97,United States of America,0,0
+64,"Shawshank Redemption, The (1994)",Q172241,fails,fails,R,0.91,142,United States of America,0,7
+65,What's Eating Gilbert Grape (1993),Q660894,passes,,,0.9,118,United States of America,0,1
+66,While You Were Sleeping (1995),Q492093,passes,,,0.8,103,United States of America,0,0
+67,Ace Ventura: Pet Detective (1994),Q340138,fails,,PG-13,0.49,83,United States of America,0,0
+68,"Crow, The (1994)",Q250912,passes,,,0.84,102,United States of America,0,0
+69,Forrest Gump (1994),Q134773,fails,fails,PG-13,0.71,136,United States of America,6,13
+70,Four Weddings and a Funeral (1994),Q901213,passes,fails,,0.96,113,United Kingdom,0,2
+71,"Lion King, The (1994)",Q36479,fails,fails,G,0.93,88,United States of America,1,1
+72,"Mask, The (1994)",Q219421,fails,,,0.8,97,United States of America,0,1
+73,Maverick (1994),Q675520,,,,0.66,121,United States of America,0,1
+74,Faster Pussycat! Kill! Kill! (1965),Q1215958,passes,passes,,0.71,83,United States of America,0,0
+75,Brother Minister: The Assassination of Malcolm X (1994),Q10858954,,,,,,,0,0
+76,Carlito's Way (1993),Q939176,,,,0.82,145,United States of America,0,0
+77,"Firm, The (1993)",Q821692,passes,,,0.75,148,United States of America,0,2
+78,Free Willy (1993),Q473628,,,,0.71,107,United States of America,0,0
+79,"Fugitive, The (1993)",Q156309,fails,,PG-13,0.96,130,United States of America,1,7
+80,Hot Shots! Part Deux (1993),Q843198,passes,,,0.55,86,United States of America,0,0
+81,"Hudsucker Proxy, The (1994)",Q313998,fails,,,0.6,111,United States of America|United Kingdom|Germany,0,0
+82,Jurassic Park (1993),Q2336369,,,,,,United States of America,0,0
+83,Much Ado About Nothing (1993),Q550205,fails,,,0.9,111,United States of America|United Kingdom,0,0
+84,Robert A. Heinlein's The Puppet Masters (1994),Q4086324,,,,,,,0,0
+85,"Ref, The (1994)",Q1360651,,,,0.72,97,United States of America,0,0
+86,"Remains of the Day, The (1993)",Q829934,,,,,,United Kingdom,0,0
+87,Searching for Bobby Fischer (1993),Q663528,fails,,PG,1,110,United States of America,0,1
+88,Sleepless in Seattle (1993),Q107167,fails,,,0.75,105,United States of America,0,1
+89,Blade Runner (1982),Q184843,fails,,R,0.89,112,United States of America|Hong Kong,0,2
+90,So I Married an Axe Murderer (1993),Q1753552,passes,,,0.51,90,United States of America,0,0
+91,"Nightmare Before Christmas, The (1993)",Q322328,fails,,PG,0.95,73,United States of America,0,1
+92,True Romance (1993),Q1127709,fails,,,0.93,120,United States of America|France,0,0
+93,Welcome to the Dollhouse (1995),Q2565420,passes,,,0.9,90,United States of America,0,0
+94,Home Alone (1990),Q105031,passes,,PG,0.67,103,United States of America,0,1
+95,Aladdin (1992),Q215518,fails,fails,G,0.95,91,United States of America,1,3
+96,Terminator 2: Judgment Day (1991),Q170564,passes,passes,R,0.92,137,United States of America,4,6
+97,Dances with Wolves (1990),Q20456,fails,,,0.87,236,United States of America,7,12
+98,"Silence of the Lambs, The (1991)",Q133654,passes,passes,R,0.95,118,United States of America,5,7
+99,Snow White and the Seven Dwarfs (1937),Q134430,passes,passes,,0.98,83,United States of America,0,1
+100,Fargo (1996),Q222720,passes,passes,R,0.94,98,United States of America|United Kingdom,2,7
+101,Heavy Metal (1981),Q2733646,,,,,,,0,0
+102,"Aristocats, The (1970)",Q184701,passes,passes,G,0.64,78,United States of America,0,0
+103,All Dogs Go to Heaven 2 (1996),Q2413112,,,,0.2,82,United States of America,0,0
+104,Theodore Rex (1995),Q7781965,,,,,,,0,0
+105,Sgt. Bilko (1996),Q1642448,,,,0.31,90,United States of America,0,0
+106,Diabolique (1996),Q617117,,,,0.18,104,United States of America,0,0
+107,Moll Flanders (1996),Q1943569,,,,0.43,120,United States of America,0,0
+108,Kids in the Hall: Brain Candy (1996),Q4955742,,,R,0.43,89,Canada,0,0
+109,Mystery Science Theater 3000: The Movie (1996),Q6590951,,,,,,,0,0
+110,Operation Dumbo Drop (1995),Q436988,,,,0.31,108,United States of America,0,0
+111,"Truth About Cats & Dogs, The (1996)",Q1880307,passes,,,0.85,93,United States of America,0,0
+112,Flipper (1996),Q1428947,,,,0.32,96,United States of America,0,0
+113,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Q1194500,,,,0.65,136,France,0,0
+114,Wallace & Gromit: The Best of Aardman Animation (1996),Q691528,,,,,,United Kingdom,0,0
+115,"Haunted World of Edward D. Wood Jr., The (1995)",Q221843,,,,,,,0,0
+116,Cold Comfort Farm (1995),Q5142221,,,,,,United Kingdom,0,0
+117,"Rock, The (1996)",Q268075,,,,,,,0,0
+118,Twister (1996),Q683663,passes,,PG-13,0.61,113,United States of America,0,2
+119,Maya Lin: A Strong Clear Vision (1994),Q2238172,,,,,105,United States of America,1,1
+120,Striptease (1996),Q1141460,passes,,,0.13,113,United States of America,0,0
+121,Independence Day (ID4) (1996),Q105387,passes,,PG-13,0.67,145,United States of America,1,2
+122,"Cable Guy, The (1996)",Q824133,fails,,,0.54,96,United States of America,0,0
+123,"Frighteners, The (1996)",Q1332274,passes,,,0.66,110,United States of America|New Zealand,0,0
+124,Lone Star (1996),Q930332,fails,,,0.92,135,United States of America,0,1
+125,Phenomenon (1996),Q464716,,,,0.5,123,United States of America,0,0
+126,"Spitfire Grill, The (1996)",Q1212954,passes,,,0.36,117,United States of America,0,0
+127,"Godfather, The (1972)",Q47703,fails,fails,R,0.97,175,United States of America|Italy,3,11
+128,Supercop (1992),Q1144956,,,,0.96,95,Hong Kong,0,0
+129,Bound (1996),Q864930,passes,passes,,0.89,108,United States of America,0,0
+130,Kansas City (1996),Q977996,,,,0.63,116,United States of America|France,0,0
+131,Breakfast at Tiffany's (1961),Q193066,fails,,,0.89,110,United States of America,1,4
+132,"Wizard of Oz, The (1939)",Q193695,passes,passes,,0.98,98,United States of America,1,6
+133,Gone with the Wind (1939),Q2875,passes,passes,,0.9,238,United States of America,8,13
+134,Citizen Kane (1941),Q24815,fails,,PG,0.99,119,United States of America,1,9
+135,2001: A Space Odyssey (1968),Q18642312,,,,,,,0,0
+136,Mr. Smith Goes to Washington (1939),Q866120,fails,,,0.96,129,United States of America,1,11
+137,Big Night (1996),Q859143,passes,,,0.96,107,United States of America,0,0
+138,D3: The Mighty Ducks (1996),Q610421,,,,0.2,104,United States of America,0,0
+139,"Love Bug, The (1969)",Q1305705,,,,0.76,107,United States of America,0,0
+140,Homeward Bound: The Incredible Journey (1993),Q230558,fails,,,0.87,84,United States of America,0,0
+141,"20,000 Leagues Under the Sea (1954)",Q64110,fails,,G,0.89,127,United States of America,2,1
+142,Bedknobs and Broomsticks (1971),Q945138,passes,,,0.67,119,United States of America|United Kingdom,1,4
+143,"Sound of Music, The (1965)",Q60072,passes,passes,,0.83,174,United States of America,5,10
+144,Die Hard (1988),Q105598,passes,,R,0.94,131,United States of America,0,4
+145,"Lawnmower Man, The (1992)",Q1196384,fails,,,0.35,107,United States of America,0,0
+146,Unhook the Stars (1996),Q1304785,,,,0.81,100,United States of America|France,0,0
+147,"Long Kiss Goodnight, The (1996)",Q1168399,passes,,,0.7,116,United States of America,0,0
+148,"Ghost and the Darkness, The (1996)",Q728488,,,,0.5,109,United States of America,1,1
+149,Jude (1996),Q1248773,,,,,,United Kingdom,0,0
+150,Swingers (1996),Q2062140,fails,fails,,0.87,96,United States of America,0,0
+151,Willy Wonka and the Chocolate Factory (1971),Q936327,fails,,G,0.91,100,United States of America|United Kingdom,0,1
+152,Sleeper (1973),Q750003,fails,,,1,87,United States of America,0,0
+153,"Fish Called Wanda, A (1988)",Q466186,passes,,,0.96,108,United States of America|United Kingdom,1,3
+154,Monty Python's Life of Brian (1979),Q24953,passes,,R,0.96,94,United Kingdom,0,0
+155,Dirty Dancing (1987),Q253978,passes,,,0.69,96,United States of America,1,0
+156,Reservoir Dogs (1992),Q72962,fails,,R,0.9,95,United States of America,0,0
+157,Platoon (1986),Q190643,fails,,R,0.89,115,United States of America,4,8
+158,Weekend at Bernie's (1989),Q1545129,fails,,,0.54,97,United States of America,0,0
+159,Basic Instinct (1992),Q146673,fails,,R,0.57,128,United States of America|France,0,2
+160,Glengarry Glen Ross (1992),Q844068,fails,,,0.95,96,United States of America,0,1
+161,Top Gun (1986),Q110138,fails,,PG,0.58,110,United States of America,0,3
+162,On Golden Pond (1981),Q451603,fails,,,0.93,109,United States of America,3,10
+163,"Return of the Pink Panther, The (1974)",Q15012089,,,,,,,0,0
+164,"Abyss, The (1989)",Q336517,passes,,,0.89,146,United States of America,1,4
+165,Jean de Florette (1986),Q1315577,,,,0.96,120,Italy|France,0,0
+166,Manon of the Spring (Manon des sources) (1986),Q603092,,,,0.78,113,Italy|Switzerland|France,0,0
+167,Private Benjamin (1980),Q83649,passes,,,0.82,105,United States of America,0,3
+168,Monty Python and the Holy Grail (1974),Q25043,fails,,,0.97,91,United Kingdom,0,0
+169,"Wrong Trousers, The (1993)",Q1969617,,,,1,30,United Kingdom,1,1
+170,Cinema Paradiso (1988),Q464032,fails,fails,PG,0.9,155,Italy|France,1,1
+171,Delicatessen (1991),Q827105,fails,fails,,0.89,95,France,0,0
+172,"Empire Strikes Back, The (1980)",Q181795,fails,,PG,0.94,124,United States of America,1,3
+173,"Princess Bride, The (1987)",Q398634,,,,,,,0,0
+174,Raiders of the Lost Ark (1981),Q174284,passes,,PG,0.93,115,United States of America,4,8
+175,Brazil (1985),Q25057,passes,,R,0.98,142,United Kingdom,0,2
+176,Aliens (1986),Q104814,passes,passes,R,0.98,137,United States of America,2,7
+177,"Good, The Bad and The Ugly, The (1966)",Q41483,fails,,R,0.97,178,Spain|Italy|Germany,0,0
+178,12 Angry Men (1957),Q2345,fails,,,1,95,United States of America,0,3
+179,"Clockwork Orange, A (1971)",Q692557,,,,,,United Kingdom,0,0
+180,Apocalypse Now (1979),Q182692,fails,,R,0.98,153,United States of America,2,8
+181,Return of the Jedi (1983),Q181803,fails,,PG,0.83,134,United States of America,0,4
+182,GoodFellas (1990),Q42047,passes,,R,0.96,146,United States of America,1,6
+183,Alien (1979),Q103569,passes,passes,R,0.98,117,United States of America|United Kingdom,1,2
+184,Army of Darkness (1993),Q471992,fails,fails,,0.73,81,United States of America,0,0
+185,Psycho (1960),Q163038,fails,,M,0.96,109,United States of America,0,4
+186,"Blues Brothers, The (1980)",Q1344949,,,,,,United States of America,0,0
+187,"Godfather: Part II, The (1974)",Q184768,fails,,R,0.96,202,United States of America,6,11
+188,Full Metal Jacket (1987),Q243439,fails,,,0.9,116,United States of America|United Kingdom,0,1
+189,"Grand Day Out, A (1992)",Q10534956,,,,,,,0,0
+190,Henry V (1989),Q114115,passes,,,1,137,United Kingdom,1,3
+191,Amadeus (1984),Q190956,passes,,PG,0.89,161,United States of America,8,11
+192,Raging Bull (1980),Q220780,fails,,,0.94,124,United States of America,2,8
+193,"Right Stuff, The (1983)",Q1197185,,,PG,0.96,184,United States of America,4,8
+194,"Sting, The (1973)",Q62665,fails,,,0.94,129,United States of America,7,10
+195,"Terminator, The (1984)",Q162255,passes,passes,R,1,108,United States of America|United Kingdom,0,0
+196,Dead Poets Society (1989),Q106316,fails,,PG,0.84,123,United States of America,1,4
+197,"Graduate, The (1967)",Q217627,fails,,,0.87,102,United States of America,1,7
+198,Nikita (La Femme Nikita) (1990),Q743928,passes,,,0.89,117,Italy|France,0,0
+199,"Bridge on the River Kwai, The (1957)",Q188718,fails,,PG,0.96,156,United States of America|United Kingdom,7,8
+200,"Shining, The (1980)",Q186341,fails,,R,0.82,144,United States of America|United Kingdom,0,0
+201,Evil Dead II (1987),Q750028,passes,passes,,0.95,85,United States of America,0,0
+202,Groundhog Day (1993),Q488655,fails,,PG,0.94,101,United States of America,0,0
+203,Unforgiven (1992),Q104137,passes,,R,0.96,131,United States of America,4,9
+204,Back to the Future (1985),Q91540,fails,,PG,0.97,92,United States of America,1,3
+205,Patton (1970),Q217220,fails,,,0.94,170,United States of America,7,10
+206,Akira (1988),Q1905968,fails,passes,R,0.9,124,Japan,0,0
+207,Cyrano de Bergerac (1990),Q128982,,,,1,138,France,1,5
+208,Young Frankenstein (1974),Q651923,fails,fails,PG,0.94,106,United States of America,0,2
+209,This Is Spinal Tap (1984),Q7810384,fails,passes,,0.95,82,United States of America,0,0
+210,Indiana Jones and the Last Crusade (1989),Q185658,fails,,PG-13,0.84,122,United States of America,1,3
+211,M*A*S*H (1970),Q1291511,,,,,,,0,0
+212,"Unbearable Lightness of Being, The (1988)",Q1122571,,,,0.85,165,United States of America,0,2
+213,"Room with a View, A (1986)",Q203574,passes,,,1,116,United Kingdom,3,7
+214,Pink Floyd - The Wall (1982),Q213683,fails,,,0.69,95,United Kingdom,0,0
+215,Field of Dreams (1989),Q517958,fails,,,0.87,101,United States of America,0,3
+216,When Harry Met Sally... (1989),Q471169,passes,passes,R,0.91,90,United States of America,0,1
+217,Bram Stoker's Dracula (1992),Q107325,passes,passes,,0.75,128,United States of America|United Kingdom,3,4
+218,Cape Fear (1991),Q501995,passes,,,0.73,128,United States of America,0,2
+219,"Nightmare on Elm Street, A (1984)",Q329434,passes,passes,,0.94,91,United States of America,0,0
+220,"Mirror Has Two Faces, The (1996)",Q1538804,passes,,,0.55,126,United States of America,0,1
+221,Breaking the Waves (1996),Q538412,passes,passes,,0.85,152,Norway|Sweden|Denmark|Netherlands|France|Iceland,0,1
+222,Star Trek: First Contact (1996),Q221236,passes,,PG-13,0.92,112,United States of America,1,1
+223,Sling Blade (1996),Q2264347,,,,0.96,136,United States of America,1,2
+224,Ridicule (1996),Q661142,fails,,,0.8,102,France,0,1
+225,101 Dalmatians (1996),Q8594,passes,,,0.41,103,United States of America,0,0
+226,Die Hard 2 (1990),Q105993,passes,,R,0.69,124,United States of America,0,0
+227,Star Trek VI: The Undiscovered Country (1991),Q579757,fails,,,0.82,113,United States of America,0,2
+228,Star Trek: The Wrath of Khan (1982),Q465478,passes,,,0.88,113,United States of America,0,0
+229,Star Trek III: The Search for Spock (1984),Q221305,fails,,,0.79,106,United States of America,0,0
+230,Star Trek IV: The Voyage Home (1986),Q471842,passes,,,0.82,119,United States of America,0,4
+231,Batman Returns (1992),Q189054,fails,passes,PG-13,0.81,126,United States of America,0,2
+232,Young Guns (1988),Q1353728,fails,,,0.41,102,United States of America,0,0
+233,Under Siege (1992),Q385798,,,,0.79,98,United States of America,0,2
+234,Jaws (1975),Q189505,passes,fails,PG,0.97,124,United States of America,3,4
+235,Mars Attacks! (1996),Q271690,passes,passes,,0.55,106,United States of America,0,0
+236,Citizen Ruth (1996),Q797834,,,,0.81,101,United States of America,0,0
+237,Jerry Maguire (1996),Q329131,fails,fails,,0.84,139,United States of America,1,5
+238,Raising Arizona (1987),Q670439,passes,,,0.91,94,United States of America,0,0
+239,Sneakers (1992),Q497082,fails,,,0.79,126,United States of America,0,0
+240,Beavis and Butt-head Do America (1996),Q111947995,,,,,86,United States of America,0,0
+241,"Last of the Mohicans, The (1992)",Q144483,fails,,,0.93,112,United States of America,1,1
+242,Kolya (1996),Q1141186,,fails,,0.96,101,France|United Kingdom|Czech Republic,1,1
+243,Jungle2Jungle (1997),Q777632,fails,,,0.19,100,United States of America,0,0
+244,Smilla's Sense of Snow (1997),Q643847,passes,,,0.53,116,Sweden|Denmark|Germany,0,0
+245,"Devil's Own, The (1997)",Q521094,,,,0.35,107,United States of America,0,0
+246,Chasing Amy (1997),Q40115,passes,,,0.87,111,United States of America,0,0
+247,Turbo: A Power Rangers Movie (1997),Q2048984,passes,,,0.15,99,United States of America,0,0
+248,Grosse Pointe Blank (1997),Q288355,passes,,,0.81,107,United States of America,0,0
+249,Austin Powers: International Man of Mystery (1997),Q501703,fails,,PG-13,0.73,95,United States of America,0,0
+250,"Fifth Element, The (1997)",Q106506,fails,,PG-13,0.71,121,France,0,1
+251,Shall We Dance? (1996),Q1199128,,,,0.91,118,Japan,0,0
+252,"Lost World: Jurassic Park, The (1997)",Q200873,passes,,PG-13,0.54,129,United States of America,0,1
+253,"Pillow Book, The (1995)",Q3784704,,,,,,United States of America,0,0
+254,Batman & Robin (1997),Q276523,passes,passes,,0.12,125,United States of America,0,0
+255,My Best Friend's Wedding (1997),Q918380,fails,,,0.73,105,United States of America,0,1
+256,When the Cats Away (Chacun cherche son chat) (1996),Q2308797,passes,,,,91,France,0,0
+257,Men in Black (1997),Q51416,fails,,PG-13,0.91,94,United States of America,1,3
+258,Contact (1997),Q270215,passes,passes,PG,0.66,144,United States of America,0,1
+259,George of the Jungle (1997),Q225260,passes,,,0.56,92,United States of America,0,0
+260,Event Horizon (1997),Q849162,passes,passes,,0.29,92,United States of America|United Kingdom,0,0
+261,Air Bud (1997),Q406916,fails,,,0.45,98,United States of America,0,0
+262,In the Company of Men (1997),Q2307324,fails,,,0.89,97,Canada|United States of America,0,0
+263,Steel (1997),Q1790253,fails,,,0.12,93,United States of America,0,0
+264,Mimic (1997),Q1423555,,,,0.64,105,United States of America,0,0
+265,"Hunt for Red October, The (1990)",Q5255573,,,,,,United States of America,0,0
+266,Kull the Conqueror (1997),Q1780108,,,,0.25,92,United States of America|Italy,0,0
+267,unknown,Q400506,,,,,,,0,0
+268,Chasing Amy (1997),Q40115,passes,,,0.87,111,United States of America,0,0
+269,"Full Monty, The (1997)",Q775970,fails,fails,,0.96,90,United States of America|United Kingdom,1,4
+270,Gattaca (1997),Q491800,fails,,,0.83,101,United States of America,0,1
+271,Starship Troopers (1997),Q478626,passes,,,0.69,129,United States of America,0,1
+272,Good Will Hunting (1997),Q193835,fails,,,0.96,126,United States of America,2,8
+273,Heat (1995),Q42198,fails,,,0.87,171,United States of America,0,0
+274,Sabrina (1995),Q900708,passes,,,0.65,127,United States of America|Germany,0,1
+275,Sense and Sensibility (1995),Q643263,passes,passes,,0.97,136,United States of America|United Kingdom,1,7
+276,Leaving Las Vegas (1995),Q280918,fails,,,0.91,107,United States of America|France,1,4
+277,Restoration (1995),Q2093029,,,,0.71,113,United States of America|United Kingdom,2,2
+278,Bed of Roses (1996),Q502882,,,,0.19,85,United States of America,0,0
+279,Once Upon a Time... When We Were Colored (1995),Q7091836,,,,0.71,115,United States of America,0,0
+280,Up Close and Personal (1996),Q777776,,,,0.31,119,United States of America,0,0
+281,"River Wild, The (1994)",Q451630,,,,0.56,108,United States of America,0,0
+282,"Time to Kill, A (1996)",Q498867,,,R,0.68,143,United States of America,0,0
+283,Emma (1996),Q226248,,,,,,,0,0
+284,Tin Cup (1996),Q1092399,passes,,,0.72,129,United States of America,0,0
+285,Secrets & Lies (1996),Q391172,passes,passes,,0.95,142,United Kingdom,0,5
+286,"English Patient, The (1996)",Q63026,passes,passes,,0.86,162,United States of America|United Kingdom,9,12
+287,Marvin's Room (1996),Q559907,passes,,,0.84,98,United States of America,0,1
+288,Scream (1996),Q27411,passes,passes,,0.79,111,United States of America,0,0
+289,Evita (1996),Q245271,passes,,,0.63,129,United States of America,0,4
+290,Fierce Creatures (1997),Q496019,fails,,,0.55,89,United States of America|United Kingdom,0,0
+291,Absolute Power (1997),Q332497,,,,0.57,121,United States of America,0,0
+292,Rosewood (1997),Q3442609,,,,0.87,140,United States of America,0,0
+293,Donnie Brasco (1997),Q738456,fails,fails,,0.88,123,United States of America,0,1
+294,Liar Liar (1997),Q48980,fails,,,0.82,83,United States of America,0,0
+295,Breakdown (1997),Q465789,,,R,0.82,90,United States of America,0,0
+296,"Promesse, La (1996)",Q1154221,,,,0.95,90,Belgium|France,0,0
+297,Ulee's Gold (1997),Q2060364,,,,0.94,112,United States of America,0,1
+298,Face/Off (1997),Q223887,fails,,,0.92,133,United States of America,0,1
+299,Hoodlum (1997),Q959531,,,,0.43,125,United States of America,0,0
+300,Air Force One (1997),Q407184,fails,,R,0.78,124,United States of America,0,2
+301,In & Out (1997),Q30600416,,,,,,,0,0
+302,L.A. Confidential (1997),Q339876,fails,,,0.99,132,United States of America,2,9
+303,Ulee's Gold (1997),Q2060364,,,,0.94,112,United States of America,0,1
+304,Fly Away Home (1996),Q49018,passes,,,0.87,107,United States of America,0,1
+305,"Ice Storm, The (1997)",Q1193138,,,,0.85,112,United States of America,0,0
+306,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",Q1516164,passes,,,0.92,105,Republic of Ireland|United States of America|United Kingdom,0,2
+307,"Devil's Advocate, The (1997)",Q224647,passes,,,0.63,143,United States of America,0,0
+308,FairyTale: A True Story (1997),Q1953910,,,,0.57,99,United States of America|United Kingdom,0,0
+309,Deceiver (1997),Q1524544,,,,0.48,101,United States of America,0,0
+310,"Rainmaker, The (1997)",Q785351,,,,0.82,135,United States of America,0,0
+311,"Wings of the Dove, The (1997)",Q559893,,,,0.84,102,United States of America|United Kingdom,0,4
+312,Midnight in the Garden of Good and Evil (1997),Q3182068,,,,,,United States of America,0,0
+313,Titanic (1997),Q44578,passes,passes,PG-13,0.87,194,United States of America,11,14
+314,3 Ninjas: High Noon At Mega Mountain (1998),Q1645315,,,,0,93,United States of America,0,0
+315,Apt Pupil (1998),Q570004,fails,,,0.53,107,United States of America|France,0,0
+316,As Good As It Gets (1997),Q221594,passes,,,0.85,133,United States of America,2,7
+317,In the Name of the Father (1993),Q304074,fails,fails,,0.94,133,Republic of Ireland|United States of America|United Kingdom,0,7
+318,Schindler's List (1993),Q483941,passes,fails,R,0.98,195,United States of America,7,12
+319,Everyone Says I Love You (1996),Q1334572,,,,0.79,97,United States of America,0,0
+320,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Q941187,,,,1,150,United States of America,0,0
+321,Mother (1996),Q3325145,passes,,,0.88,104,United States of America,0,0
+322,Murder at 1600 (1997),Q1971748,fails,,,0.33,102,United States of America,0,0
+323,Dante's Peak (1997),Q914247,passes,,,0.26,105,United States of America,0,0
+324,Lost Highway (1997),Q289204,fails,,R,0.62,135,United States of America|France,0,0
+325,Crash (1996),Q839133,passes,fails,NC-17,0.65,100,Canada|United Kingdom,0,0
+326,G.I. Jane (1997),Q526690,passes,,,0.5,124,United States of America,0,0
+327,Cop Land (1997),Q558102,fails,,,0.76,104,United States of America,0,0
+328,Conspiracy Theory (1997),Q506661,fails,,,0.57,135,United States of America,0,0
+329,Desperate Measures (1998),Q1200869,,,,0.19,96,United States of America,0,0
+330,187 (1997),Q298694,,,,,,,0,0
+331,"Edge, The (1997)",Q759333,,,R,0.64,113,United States of America,0,0
+332,Kiss the Girls (1997),Q60016,fails,,,0.33,111,United States of America,0,0
+333,"Game, The (1997)",Q723187,fails,,,0.76,129,United States of America,0,0
+334,U Turn (1997),Q844303,,,,0.61,125,United States of America|France,0,0
+335,How to Be a Player (1997),Q5251044,,,,0.11,,United States of America,0,0
+336,Playing God (1997),Q742080,,,,0.16,93,United States of America,0,0
+337,"House of Yes, The (1997)",Q1533822,passes,,,0.62,85,United States of America,0,0
+338,Bean (1997),Q752103,,,,0.44,95,United States of America|United Kingdom,0,0
+339,Mad City (1997),Q1208879,,,,0.36,110,United States of America,0,0
+340,Boogie Nights (1997),Q291170,passes,passes,,0.93,149,United States of America,0,3
+341,Critical Care (1997),Q2345399,,,,0.59,102,United States of America,0,0
+342,"Man Who Knew Too Little, The (1997)",Q392697,,,,0.39,91,United States of America|Germany,0,0
+343,Alien: Resurrection (1997),Q458314,passes,passes,,0.54,108,United States of America,0,0
+344,"Apostle, The (1997)",Q619820,,,,0.9,129,United States of America,0,1
+345,Deconstructing Harry (1997),Q551762,,fails,,0.73,96,United States of America,0,1
+346,Jackie Brown (1997),Q431252,passes,passes,,0.87,154,United States of America,0,1
+347,Wag the Dog (1997),Q623443,,,,0.86,97,United States of America,0,2
+348,Desperate Measures (1998),Q1200869,,,,0.19,96,United States of America,0,0
+349,Hard Rain (1998),Q1585018,fails,,,0.3,92,Japan|United States of America|Denmark|France|United Kingdom|Australia|New Zealand,0,0
+350,Fallen (1998),Q162225,,,R,0.4,123,United States of America,0,0
+351,"Prophecy II, The (1998)",Q1533996,,,,0.33,80,United States of America,0,0
+352,Spice World (1997),Q1137856,passes,passes,,0.34,92,United Kingdom,0,0
+353,Deep Rising (1998),Q1146977,,,,0.3,106,United States of America,0,0
+354,"Wedding Singer, The (1998)",Q1133316,passes,,,0.69,91,United States of America,0,0
+355,Sphere (1998),Q744500,fails,,PG-13,0.11,129,United States of America,0,0
+356,"Client, The (1994)",Q255376,passes,,,0.78,116,United States of America,0,1
+357,One Flew Over the Cuckoo's Nest (1975),Q171669,fails,,R,0.93,133,United States of America,5,9
+358,Spawn (1997),Q1474393,passes,,,0.17,92,United States of America,0,0
+359,"Assignment, The (1997)",Q1560704,,,,0.6,115,Canada|United States of America,0,0
+360,Wonderland (1997),Q254638,,,,,,,0,0
+361,Incognito (1997),Q6014960,,,,0.33,,United States of America,0,0
+362,Blues Brothers 2000 (1998),Q832515,,,,0.46,123,Canada|United States of America,0,0
+363,Sudden Death (1995),Q241309,,,,0.5,106,United States of America,0,0
+364,Ace Ventura: When Nature Calls (1995),Q340127,fails,,,0.25,94,United States of America,0,0
+365,Powder (1995),Q1543837,,,,0.5,111,United States of America,0,0
+366,Dangerous Minds (1995),Q579359,passes,,,0.31,94,United States of America,0,0
+367,Clueless (1995),Q931165,passes,passes,,0.81,97,United States of America,0,0
+368,Bio-Dome (1996),Q2067539,,,,0.04,88,United States of America,0,0
+369,Black Sheep (1996),Q880549,,,,0.28,83,United States of America,0,0
+370,Mary Reilly (1996),Q953911,,,,0.26,104,United States of America,0,0
+371,"Bridges of Madison County, The (1995)",Q399823,passes,,,0.9,134,United States of America,0,1
+372,Jeffrey (1995),Q739754,,,,0.68,92,United States of America,0,0
+373,Judge Dredd (1995),Q645597,passes,,R,0.22,92,United States of America,0,0
+374,Mighty Morphin Power Rangers: The Movie (1995),Q1473596,passes,,,0.32,92,United States of America,0,0
+375,Showgirls (1995),Q532264,passes,,,0.22,131,United States of America|France,0,0
+376,Houseguest (1994),Q1194165,,,,0.14,104,United States of America,0,0
+377,Heavyweights (1994),Q239413,fails,,,0.29,93,United States of America,0,0
+378,Miracle on 34th Street (1994),Q258204,passes,,,0.6,109,United States of America,0,0
+379,Tales From the Crypt Presents: Demon Knight (1995),Q1591769,passes,passes,,0.38,92,United States of America,0,0
+380,Star Trek: Generations (1994),Q723679,passes,,PG,0.47,118,United States of America,0,0
+381,Muriel's Wedding (1994),Q1348275,passes,,,0.79,101,France|Australia,0,0
+382,"Adventures of Priscilla, Queen of the Desert, The (1994)",Q255328,passes,,,0.96,104,Australia,1,1
+383,"Flintstones, The (1994)",Q201358,,,,,30,United States of America,0,0
+384,Naked Gun 33 1/3: The Final Insult (1994),Q385309,fails,,PG-13,0.54,79,United States of America,0,0
+385,True Lies (1994),Q110397,passes,,,0.71,141,United States of America,0,1
+386,Addams Family Values (1993),Q204725,passes,,PG-13,0.77,90,United States of America,0,1
+387,"Age of Innocence, The (1993)",Q1125442,passes,,,0.84,138,United States of America,1,5
+388,Beverly Hills Cop III (1994),Q654736,fails,,,0.09,100,United States of America,0,0
+389,Black Beauty (1994),Q537256,passes,,,0.8,88,United States of America|United Kingdom,0,0
+390,Fear of a Black Hat (1993),Q5439384,fails,,,0.86,88,United States of America,0,0
+391,Last Action Hero (1993),Q858840,fails,,PG-13,0.4,130,United States of America,0,0
+392,"Man Without a Face, The (1993)",Q944158,fails,,,0.65,110,United States of America,0,0
+393,Mrs. Doubtfire (1993),Q483852,passes,,,0.72,125,United States of America,1,1
+394,Radioland Murders (1994),Q1741078,,,,0.24,112,United States of America,0,0
+395,Robin Hood: Men in Tights (1993),Q1334948,passes,,,0.4,104,United States of America|France,0,0
+396,Serial Mom (1994),Q610670,passes,,,0.64,95,United States of America,0,0
+397,Striking Distance (1993),Q617249,,,,0.17,98,United States of America,0,0
+398,Super Mario Bros. (1993),Q535550,passes,,,0.28,104,United States of America,0,0
+399,"Three Musketeers, The (1993)",Q508931,,,,0.28,105,United States of America|Austria|United Kingdom,0,0
+400,"Little Rascals, The (1994)",Q644634,fails,,,0.23,82,United States of America,0,0
+401,"Brady Bunch Movie, The (1995)",Q1211705,,,,0.62,84,United States of America,0,0
+402,Ghost (1990),Q49003,passes,,,0.76,122,United States of America,2,5
+403,Batman (1989),Q116852,fails,,PG-13,0.73,126,United States of America,1,1
+404,Pinocchio (1940),Q4341553,fails,fails,G,1,88,United States of America,1,1
+405,Mission: Impossible (1996),Q1741232,fails,,PG-13,0.66,105,United States of America,0,0
+406,Thinner (1996),Q1637939,,,,0.15,88,United States of America,0,0
+407,Spy Hard (1996),Q392662,fails,,,0.08,81,United States of America,0,0
+408,"Close Shave, A (1995)",Q400097,,,,1,30,United Kingdom,1,1
+409,Jack (1996),Q1471358,fails,,PG-13,0.17,109,United States of America,0,0
+410,Kingpin (1996),Q625424,fails,,,0.5,113,United States of America,0,0
+411,"Nutty Professor, The (1996)",Q936576,,,,0.64,91,United States of America,1,1
+412,"Very Brady Sequel, A (1996)",Q1211697,,,,0.53,86,United States of America,0,0
+413,Tales from the Crypt Presents: Bordello of Blood (1996),Q893399,passes,passes,,0.15,83,United States of America,0,0
+414,My Favorite Year (1982),Q1304397,,,,0.96,92,United States of America,0,1
+415,"Apple Dumpling Gang, The (1975)",Q2081291,,,,0.56,100,United States of America,0,0
+416,Old Yeller (1957),Q1851869,fails,,,1,83,United States of America,0,0
+417,"Parent Trap, The (1961)",Q1217234,passes,,,0.9,124,United States of America,0,2
+418,Cinderella (1950),Q191753,passes,passes,G,0.97,74,United States of America,0,2
+419,Mary Poppins (1964),Q209170,passes,passes,,0.96,140,United States of America,4,12
+420,Alice in Wonderland (1951),Q189875,passes,passes,G,0.81,75,United States of America,0,1
+421,William Shakespeare's Romeo and Juliet (1996),Q463313,passes,passes,,0.72,113,Canada|United States of America|Mexico|Australia,0,1
+422,Aladdin and the King of Thieves (1996),Q817003,fails,,,0.33,71,Japan|United States of America|Australia,0,0
+423,E.T. the Extra-Terrestrial (1982),Q11621,passes,fails,PG,0.99,115,United States of America,4,9
+424,Children of the Corn: The Gathering (1996),Q338012,,,,,85,United States of America,0,0
+425,Bob Roberts (1992),Q888219,fails,,,0.95,105,United States of America,0,0
+426,"Transformers: The Movie, The (1986)",Q250378,fails,,PG,0.62,85,Japan|United States of America,0,0
+427,To Kill a Mockingbird (1962),Q177922,passes,,,0.93,129,United States of America,3,8
+428,Harold and Maude (1971),Q368577,passes,fails,,0.84,91,United States of America,0,0
+429,"Day the Earth Stood Still, The (1951)",Q425992,passes,,,0.95,92,United States of America,0,0
+430,Duck Soup (1933),Q1125566,fails,,,0.91,68,United States of America,0,0
+431,Highlander (1986),Q156539,passes,,,0.7,111,United States of America|United Kingdom,0,0
+432,Fantasia (1940),Q943192,fails,passes,G,0.95,120,United States of America,0,0
+433,Heathers (1989),Q1551916,passes,passes,,0.93,103,United States of America,0,0
+434,Forbidden Planet (1956),Q1331230,fails,,G,0.96,99,United States of America,0,1
+435,Butch Cassidy and the Sundance Kid (1969),Q232000,fails,,,0.89,105,United States of America,3,6
+436,"American Werewolf in London, An (1981)",Q467290,fails,,,0.89,97,United States of America|United Kingdom,1,1
+437,Amityville 1992: It's About Time (1992),Q2621377,,,,0.14,95,United States of America,0,0
+438,Amityville 3-D (1983),Q472528,,,,0.1,105,United States of America|Mexico,0,0
+439,Amityville: A New Generation (1993),Q2520371,,,,,91,United States of America,0,0
+440,Amityville II: The Possession (1982),Q2557457,,,,0.16,104,United States of America|Mexico,0,0
+441,"Amityville Horror, The (1979)",Q2252749,,,,,,United States of America,0,0
+442,"Amityville Curse, The (1990)",Q377039,,,,0.2,91,Canada,0,0
+443,"Birds, The (1963)",Q110043,passes,,PG-13,0.95,115,United States of America,0,1
+444,"Blob, The (1958)",Q224964,,,,0.68,82,United States of America,0,0
+445,"Body Snatcher, The (1945)",Q2520443,,,,0.85,77,United States of America,0,0
+446,Burnt Offerings (1976),Q1191134,,,,0.54,116,United States of America,0,0
+447,Carrie (1976),Q162672,passes,passes,,0.93,94,United States of America,0,2
+448,"Omen, The (1976)",Q836298,passes,fails,,0.86,106,United States of America|United Kingdom,1,1
+449,Star Trek: The Motion Picture (1979),Q107940,fails,,,0.43,132,United States of America,0,3
+450,Star Trek V: The Final Frontier (1989),Q241218,fails,,,0.22,107,United States of America,0,0
+451,Grease (1978),Q267721,passes,,,0.76,110,United States of America|United Kingdom,0,0
+452,Jaws 2 (1978),Q1199834,fails,,,0.61,117,United States of America,0,0
+453,Jaws 3-D (1983),Q1199837,passes,,,0.14,99,United States of America,0,0
+454,Bastard Out of Carolina (1996),Q4868232,,,,,,United States of America,0,0
+455,Jackie Chan's First Strike (1996),Q1144962,,,PG-13,0.57,110,Hong Kong,0,0
+456,Beverly Hills Ninja (1997),Q851810,,,,0.14,85,United States of America,0,0
+457,Free Willy 3: The Rescue (1997),Q1032889,fails,,,0.44,86,United States of America,0,0
+458,Nixon (1995),Q839042,,,,0.75,192,United States of America,0,4
+459,"Cry, the Beloved Country (1995)",Q3392374,,,,0.85,106,United States of America|South Africa,0,0
+460,"Crossing Guard, The (1995)",Q1141286,,,,0.75,111,United States of America,0,0
+461,Smoke (1995),Q310551,,,,,,,0,0
+462,Like Water For Chocolate (Como agua para chocolate) (1992),Q5196238,passes,,,0.87,113,Mexico,0,0
+463,"Secret of Roan Inish, The (1994)",Q2255971,passes,,,0.96,104,United States of America,0,0
+464,Vanya on 42nd Street (1994),Q736349,,,,0.89,120,United States of America,0,0
+465,"Jungle Book, The (1994)",Q1097616,,,,0.8,111,United States of America,0,0
+466,Red Rock West (1992),Q1518218,,,,0.95,98,United States of America,0,0
+467,"Bronx Tale, A (1993)",Q1130705,,,,0.97,116,United States of America,0,0
+468,Rudy (1993),Q3107519,,,,0.78,114,United States of America,0,0
+469,Short Cuts (1993),Q605226,passes,,R,0.95,187,United States of America,0,1
+470,Tombstone (1993),Q1420651,passes,,,0.74,130,United States of America,0,0
+471,Courage Under Fire (1996),Q1339523,,,,0.85,116,United States of America,0,0
+472,Dragonheart (1996),Q330612,fails,,,0.5,103,United States of America|United Kingdom,0,1
+473,James and the Giant Peach (1996),Q1131380,passes,,,0.91,79,United States of America|United Kingdom,0,1
+474,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Q105702,fails,,PG,0.98,102,United States of America|United Kingdom,0,4
+475,Trainspotting (1996),Q109135,fails,fails,,0.9,94,United Kingdom,0,1
+476,"First Wives Club, The (1996)",Q913620,passes,,,0.5,103,United States of America,0,1
+477,Matilda (1996),Q280400,passes,,,0.9,94,United States of America,0,0
+478,"Philadelphia Story, The (1940)",Q498822,passes,,,1,108,United States of America,2,6
+479,Vertigo (1958),Q202548,fails,,PG,0.93,128,United States of America,0,2
+480,North by Northwest (1959),Q223139,fails,,,0.97,136,United States of America,0,3
+481,"Apartment, The (1960)",Q270510,passes,,,0.93,125,United States of America,5,10
+482,Some Like It Hot (1959),Q190086,passes,,,0.94,120,United States of America,1,6
+483,Casablanca (1942),Q132689,fails,,PG,0.99,102,United States of America,3,8
+484,"Maltese Falcon, The (1941)",Q221462,fails,,,1,101,United States of America,0,3
+485,My Fair Lady (1964),Q201215,passes,passes,,0.95,171,United States of America,8,12
+486,Sabrina (1954),Q152493,fails,,,0.93,113,United States of America,1,6
+487,Roman Holiday (1953),Q201293,passes,,,0.97,118,United States of America,3,10
+488,Sunset Blvd. (1950),Q193570,passes,passes,,0.99,110,United States of America,3,11
+489,Notorious (1946),Q587419,fails,,,0.96,102,United States of America,0,2
+490,To Catch a Thief (1955),Q331017,passes,,PG,0.96,106,United States of America,1,3
+491,"Adventures of Robin Hood, The (1938)",Q201234,fails,,PG,1,102,United States of America,3,4
+492,East of Eden (1955),Q1129778,,,PG,0.85,115,United States of America,1,4
+493,"Thin Man, The (1934)",Q1198497,,,,0.98,91,United States of America,0,4
+494,His Girl Friday (1940),Q1066714,passes,,,0.99,90,United States of America,0,0
+495,Around the World in 80 Days (1956),Q696057,fails,,G,0.69,184,United States of America|Italy|France|United Kingdom,5,8
+496,It's a Wonderful Life (1946),Q204191,passes,,PG,0.93,125,United States of America,0,5
+497,Bringing Up Baby (1938),Q179743,passes,,,0.94,102,United States of America,0,0
+498,"African Queen, The (1951)",Q384397,fails,,,0.98,105,United States of America|United Kingdom,1,4
+499,Cat on a Hot Tin Roof (1958),Q713979,passes,,,,104,United States of America,0,6
+500,Fly Away Home (1996),Q49018,passes,,,0.87,107,United States of America,0,1
+501,Dumbo (1941),Q40895,fails,fails,G,0.98,64,United States of America,1,1
+502,Bananas (1971),Q503,,,,,,,0,0
+503,"Candidate, The (1972)",Q500672,,,,0.88,110,United States of America,1,2
+504,Bonnie and Clyde (1967),Q181776,passes,,,0.89,107,United States of America,2,10
+505,Dial M for Murder (1954),Q496255,fails,,PG,0.89,101,United States of America,0,0
+506,Rebel Without a Cause (1955),Q426346,fails,,,0.93,106,United States of America,0,3
+507,"Streetcar Named Desire, A (1951)",Q212129,passes,,,0.97,120,United States of America,4,12
+508,"People vs. Larry Flynt, The (1996)",Q750077,,,,0.88,130,United States of America,0,2
+509,My Left Foot (1989),Q746574,passes,fails,,0.98,103,Republic of Ireland|United Kingdom,2,5
+510,"Magnificent Seven, The (1954)",Q19069,fails,,,0.89,128,United States of America,0,1
+511,Lawrence of Arabia (1962),Q228186,fails,fails,PG,0.94,216,United States of America|United Kingdom,7,10
+512,Wings of Desire (1987),Q156911,fails,fails,PG-13,0.98,128,France|Germany,0,0
+513,"Third Man, The (1949)",Q271830,passes,fails,,0.99,104,United Kingdom,1,3
+514,Annie Hall (1977),Q233464,passes,,,0.97,93,United States of America,4,5
+515,"Boot, Das (1981)",Q62730,fails,,R,0.98,293,Germany,0,6
+516,Local Hero (1983),Q639969,fails,,,1,111,United Kingdom,0,0
+517,Manhattan (1979),Q731310,fails,,,0.94,96,United States of America,0,2
+518,Miller's Crossing (1990),Q130142,fails,,,0.92,115,United States of America,0,0
+519,"Treasure of the Sierra Madre, The (1948)",Q251559,fails,,,1,126,United States of America,3,4
+520,"Great Escape, The (1963)",Q110354,fails,,,0.94,165,United States of America,0,1
+521,"Deer Hunter, The (1978)",Q201674,fails,,,,182,United States of America,5,9
+522,Down by Law (1986),Q192409,fails,fails,R,0.87,107,United States of America|Germany,0,0
+523,Cool Hand Luke (1967),Q684150,fails,,GP,1,123,United States of America,1,4
+524,"Great Dictator, The (1940)",Q109116,passes,,G,0.92,125,United States of America,0,5
+525,"Big Sleep, The (1946)",Q1137931,fails,,,0.97,114,United States of America,0,0
+526,Ben-Hur (1959),Q180098,passes,,G,0.85,222,United States of America,11,12
+527,Gandhi (1982),Q202211,fails,,,0.89,181,United Kingdom|India,8,11
+528,"Killing Fields, The (1984)",Q494582,,,,0.93,139,United Kingdom,3,7
+529,My Life as a Dog (Mitt liv som hund) (1985),Q1342900,fails,,,1,101,Sweden,0,2
+530,"Man Who Would Be King, The (1975)",Q1042931,,,PG,0.97,129,United States of America|United Kingdom,0,4
+531,Shine (1996),Q826494,fails,fails,,0.91,105,Australia,1,7
+532,Kama Sutra: A Tale of Love (1996),Q1624299,,,,0.4,117,India,0,0
+533,"Daytrippers, The (1996)",Q1778532,passes,,,0.73,84,Canada|United States of America,0,0
+534,Traveller (1997),Q3978565,,,,0.79,101,United States of America,0,0
+535,Addicted to Love (1997),Q932458,,,,0.55,101,United States of America,0,0
+536,Ponette (1996),Q1571941,,passes,,0.91,97,France,0,0
+537,My Own Private Idaho (1991),Q1125451,fails,,,0.79,102,United States of America,0,0
+538,Anastasia (1997),Q486609,passes,passes,,0.86,94,United States of America,0,1
+539,Mouse Hunt (1997),Q685163,,,,0.44,93,United States of America|United Kingdom,0,0
+540,Money Train (1995),Q1163081,,,,0.22,106,United States of America,0,0
+541,Mortal Kombat (1995),Q819196,fails,,PG-13,0.45,101,United States of America,0,0
+542,Pocahontas (1995),Q218894,passes,passes,G,0.55,81,United States of America,1,1
+543,"Misérables, Les (1995)",Q1780602,,,,0.81,175,France,0,0
+544,Things to Do in Denver when You're Dead (1995),Q1169589,,,,0.33,112,United States of America,0,0
+545,Vampire in Brooklyn (1995),Q1353837,,,,0.12,98,United States of America,0,0
+546,Broken Arrow (1996),Q392915,fails,,,0.53,110,United States of America,0,0
+547,"Young Poisoner's Handbook, The (1995)",Q831265,,,,0.86,99,France|United Kingdom|Germany,0,0
+548,"NeverEnding Story III, The (1994)",Q699299,,,,,95,Germany,0,0
+549,Rob Roy (1995),Q1141727,fails,,,0.73,139,United States of America,0,1
+550,Die Hard: With a Vengeance (1995),Q106871,fails,,,0.6,131,United States of America,0,0
+551,Lord of Illusions (1995),Q1869916,,,,0.6,116,United States of America,0,0
+552,Species (1995),Q337747,passes,,,0.43,104,United States of America,0,0
+553,"Walk in the Clouds, A (1995)",Q944614,,,,0.46,98,United States of America|Mexico,0,0
+554,Waterworld (1995),Q272595,fails,,,0.48,136,United States of America,0,1
+555,White Man's Burden (1995),Q908734,,,,,,,0,0
+556,Wild Bill (1995),Q1471493,,,,0.42,94,United States of America,0,0
+557,Farinelli: il castrato (1994),Q1341293,,,,0.58,111,Belgium|Italy|France,0,1
+558,Heavenly Creatures (1994),Q322206,passes,passes,,0.93,108,Germany|New Zealand,0,1
+559,Interview with the Vampire (1994),Q318910,fails,passes,,0.64,123,United States of America,0,2
+560,"Kid in King Arthur's Court, A (1995)",Q947262,,,,0.05,89,United States of America,0,0
+561,Mary Shelley's Frankenstein (1994),Q833180,,,,0.38,123,Japan|United States of America,0,1
+562,"Quick and the Dead, The (1995)",Q756416,passes,,,0.58,103,United States of America,0,0
+563,Stephen King's The Langoliers (1995),Q625770,passes,,,0.5,180,United States of America,0,0
+564,Tales from the Hood (1995),Q3980396,,,,0.52,98,United States of America,0,0
+565,Village of the Damned (1995),Q1167579,passes,,,0.31,95,United States of America|United Kingdom,0,0
+566,Clear and Present Danger (1994),Q1392442,fails,,,0.8,141,United States of America,0,2
+567,Wes Craven's New Nightmare (1994),Q636166,passes,passes,,0.79,112,United States of America,0,0
+568,Speed (1994),Q108006,passes,,R,0.94,116,United States of America,2,3
+569,Wolf (1994),Q930540,,,,0.62,121,United States of America,0,0
+570,Wyatt Earp (1994),Q1355172,,,,0.46,182,United States of America,0,1
+571,Another Stakeout (1993),Q1210907,,,,0.16,108,United States of America,0,0
+572,Blown Away (1994),Q614858,,,,0.38,121,United States of America,0,0
+573,Body Snatchers (1993),Q257514,passes,,,0.7,87,United States of America,0,0
+574,Boxing Helena (1993),Q895690,fails,,,0.17,105,United States of America,0,0
+575,City Slickers II: The Legend of Curly's Gold (1994),Q1218462,,,,0.17,115,United States of America,0,0
+576,Cliffhanger (1993),Q824389,fails,,,0.67,113,United States of America|Italy,0,3
+577,Coneheads (1993),Q1211928,passes,,,0.35,87,United States of America,0,0
+578,Demolition Man (1993),Q470891,fails,,,0.6,115,United States of America,0,0
+579,Fatal Instinct (1993),Q1139237,passes,,,0.18,86,United States of America,0,0
+580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",Q784934,fails,,,0.58,92,United Kingdom,0,0
+581,Kalifornia (1993),Q179798,,,,0.59,114,United States of America,0,0
+582,"Piano, The (1993)",Q117315,passes,passes,,0.9,121,France|United Kingdom|Australia|New Zealand,3,8
+583,Romeo Is Bleeding (1993),Q624857,,,,0.27,105,United States of America|United Kingdom,0,0
+584,"Secret Garden, The (1993)",Q525421,passes,,,0.88,98,United States of America|United Kingdom,0,0
+585,Son in Law (1993),Q1137790,,,,0.21,95,United States of America,0,0
+586,Terminal Velocity (1994),Q614981,,,,,,,0,0
+587,"Hour of the Pig, The (1993)",Q7740486,,,,0.75,112,France|United Kingdom,0,0
+588,Beauty and the Beast (1991),Q179673,passes,passes,G,0.94,84,United States of America,1,3
+589,"Wild Bunch, The (1969)",Q994481,,,R,0.9,145,United States of America,0,2
+590,Hellraiser: Bloodline (1996),Q1031262,fails,,,0.27,85,United States of America,0,0
+591,Primal Fear (1996),Q822057,fails,,,0.76,129,United States of America,0,1
+592,True Crime (1995),Q1476611,,,,,,United States of America,0,0
+593,Stalingrad (1993),Q316225,,,,,134,Sweden|Germany|Czech Republic,0,0
+594,Heavy (1995),Q4590873,,,,,,,0,0
+595,"Fan, The (1996)",Q390299,fails,,,0.37,111,United States of America,0,0
+596,"Hunchback of Notre Dame, The (1996)",Q191380,,,,,,France,0,0
+597,Eraser (1996),Q370326,passes,,,0.38,110,United States of America,0,1
+598,"Big Squeeze, The (1996)",Q591279,,,,,,United Kingdom,0,0
+599,Police Story 4: Project S (Chao ji ji hua) (1993),Q1144956,,,,0.96,95,Hong Kong,0,0
+600,Daniel Defoe's Robinson Crusoe (1996),Q517910,,,,,105,United States of America,0,0
+601,For Whom the Bell Tolls (1943),Q515572,,,,0.71,170,United States of America,1,9
+602,"American in Paris, An (1951)",Q747570,fails,,,0.96,108,United States of America,6,8
+603,Rear Window (1954),Q34414,passes,,PG,0.98,112,United States of America,0,4
+604,It Happened One Night (1934),Q208632,passes,,,0.99,105,United States of America,5,5
+605,Meet Me in St. Louis (1944),Q1066873,passes,,,1,113,United States of America,0,3
+606,All About Eve (1950),Q200299,passes,,,0.99,138,United States of America,6,14
+607,Rebecca (1940),Q204212,passes,,,0.98,126,United States of America,2,11
+608,Spellbound (1945),Q497311,passes,,,0.85,111,United States of America,1,6
+609,Father of the Bride (1950),Q1144850,,,,0.9,92,United States of America,0,3
+610,Gigi (1958),Q577757,fails,,,0.81,119,United States of America,8,8
+611,Laura (1944),Q976149,passes,,,1,88,United States of America,1,5
+612,Lost Horizon (1937),Q1619885,fails,,,0.93,97,United States of America,2,6
+613,My Man Godfrey (1936),Q1811134,fails,,,0.97,94,United States of America,0,6
+614,Giant (1956),Q669592,,,,0.93,196,United States of America,1,10
+615,"39 Steps, The (1935)",Q501105,passes,,,0.96,86,United Kingdom,0,0
+616,Night of the Living Dead (1968),Q623051,passes,passes,R,0.96,96,United States of America,0,0
+617,"Blue Angel, The (Blaue Engel, Der) (1930)",Q158047,fails,,,0.96,108,Germany,0,0
+618,Picnic (1955),Q1300420,,,,0.5,115,United States of America,2,6
+619,Extreme Measures (1996),Q1385542,,,,0.56,118,Canada|United States of America|United Kingdom,0,0
+620,"Chamber, The (1996)",Q1213747,,,,0.12,113,United States of America,0,0
+621,"Davy Crockett, King of the Wild Frontier (1955)",Q1093219,,,,1,93,United States of America,0,0
+622,Swiss Family Robinson (1960),Q1367163,,,,0.82,128,United States of America,0,0
+623,Angels in the Outfield (1994),Q659037,fails,,,0.33,103,United States of America,0,0
+624,"Three Caballeros, The (1945)",Q736731,fails,fails,,0.82,70,United States of America,0,2
+625,"Sword in the Stone, The (1963)",Q204662,fails,fails,G,0.66,75,United States of America,0,1
+626,So Dear to My Heart (1949),Q2090255,,,,,84,United States of America,0,0
+627,Robin Hood: Prince of Thieves (1991),Q486822,passes,,,0.51,143,United States of America|United Kingdom,0,0
+628,Sleepers (1996),Q1145732,fails,,,0.73,150,United States of America,0,1
+629,Victor/Victoria (1982),Q936037,passes,,,0.97,132,United States of America|United Kingdom,1,7
+630,"Great Race, The (1965)",Q304366,,,,0.75,152,United States of America,1,4
+631,"Crying Game, The (1992)",Q3986479,,,,,,,0,0
+632,Sophie's Choice (1982),Q165627,passes,,,0.78,144,United States of America,1,5
+633,"Christmas Carol, A (1938)",Q181248,,,,1,69,United States of America,0,0
+634,Microcosmos: Le peuple de l'herbe (1996),Q675044,,,,0.97,80,Italy|Switzerland|France,0,0
+635,"Fog, The (1980)",Q500403,passes,passes,,0.75,90,United States of America,0,0
+636,Escape from New York (1981),Q403033,fails,fails,R,0.86,99,United States of America,0,0
+637,"Howling, The (1981)",Q1170554,passes,,,0.72,91,United States of America,0,0
+638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",Q1217549,passes,,,1,122,France,0,1
+639,"Tin Drum, The (Blechtrommel, Die) (1979)",Q899334,,,,,,Germany,0,0
+640,"Cook the Thief His Wife & Her Lover, The (1989)",Q661202,fails,passes,NC-17,0.85,119,Netherlands|France|United Kingdom,0,0
+641,Paths of Glory (1957),Q747936,fails,fails,,0.95,88,United States of America,0,0
+642,"Grifters, The (1990)",Q304488,,,,0.91,110,United States of America,0,4
+643,The Innocent (1994),Q16251860,,,,,,United States of America,0,0
+644,"Thin Blue Line, The (1988)",Q162997,,,,1,103,United States of America,0,0
+645,Paris Is Burning (1990),Q7137311,passes,,R,0.98,71,United States of America,0,0
+646,Once Upon a Time in the West (1969),Q168154,passes,passes,PG-13,0.95,165,United States of America|Italy,0,0
+647,Ran (1985),Q565231,fails,,R,0.96,160,Japan|France,1,4
+648,"Quiet Man, The (1952)",Q470560,fails,,,0.91,129,United States of America,2,7
+649,Once Upon a Time in America (1984),Q206388,fails,,,0.87,229,United States of America|Italy|France,0,0
+650,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Q217189,fails,,,0.93,96,Sweden,0,0
+651,Glory (1989),Q862317,fails,fails,,0.93,122,United States of America,3,5
+652,Rosencrantz and Guildenstern Are Dead (1990),Q1579166,fails,,,0.61,118,United Kingdom,0,0
+653,Touch of Evil (1958),Q778161,fails,,PG-13,0.95,93,United States of America,0,0
+654,Chinatown (1974),Q644987,fails,,R,0.99,131,United States of America,1,11
+655,Stand by Me (1986),Q494722,fails,fails,R,0.91,89,United States of America,0,1
+656,M (1931),Q127021,passes,,,1,117,Germany|Weimar Republic,0,0
+657,"Manchurian Candidate, The (1962)",Q521387,fails,,PG-13,0.97,126,United States of America,0,2
+658,Pump Up the Volume (1990),Q1587058,,,,0.8,105,Canada|United States of America,0,0
+659,Arsenic and Old Lace (1944),Q59317,passes,,,0.81,113,United States of America,0,0
+660,Fried Green Tomatoes (1991),Q118375,passes,,,0.75,130,United States of America,0,2
+661,High Noon (1952),Q245208,fails,,,0.95,85,United States of America,3,6
+662,Somewhere in Time (1980),Q1305728,fails,,,0.61,99,United States of America,0,1
+663,Being There (1979),Q945074,fails,,,0.95,130,United States of America,1,2
+664,"Paris, Texas (1984)",Q160946,fails,,R,0.97,147,United States of America|France|United Kingdom|Germany,0,0
+665,Alien 3 (1992),Q108543,fails,passes,,0.48,114,United States of America,0,1
+666,Blood For Dracula (Andy Warhol's Dracula) (1974),Q2609506,passes,,,0.69,100,United States of America|Italy|France,0,0
+667,Audrey Rose (1977),Q759020,,,,0.53,113,United States of America,0,0
+668,Blood Beach (1981),Q4927558,,,,,92,United States of America,0,0
+669,Body Parts (1991),Q890072,,,,0.41,88,United States of America,0,0
+670,Body Snatchers (1993),Q257514,passes,,,0.7,87,United States of America,0,0
+671,Bride of Frankenstein (1935),Q875904,passes,,,0.98,78,United States of America,0,1
+672,Candyman (1992),Q1033108,passes,passes,,0.77,99,United States of America|United Kingdom,0,0
+673,Cape Fear (1962),Q529106,,,,0.96,105,United States of America,0,0
+674,Cat People (1982),Q1426423,passes,,R,0.61,118,United States of America,0,0
+675,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",Q151895,fails,passes,,0.97,94,Germany|Weimar Republic,0,0
+676,"Crucible, The (1996)",Q596984,passes,,,0.68,123,United States of America,0,2
+677,Fire on the Mountain (1996),Q5451629,,,,,72,United States of America,0,0
+678,Volcano (1997),Q1059532,passes,,,0.49,100,United States of America,0,0
+679,Conan the Barbarian (1981),Q189169,,,,,,,0,0
+680,Kull the Conqueror (1997),Q1780108,,,,0.25,92,United States of America|Italy,0,0
+681,Wishmaster (1997),Q390042,passes,passes,R,0.25,90,United States of America,0,0
+682,I Know What You Did Last Summer (1997),Q54959218,,,,,,United States of America,0,0
+683,Rocket Man (1997),Q5550401,,,,0.21,95,United States of America,0,0
+684,In the Line of Fire (1993),Q427386,fails,,,0.96,123,United States of America,0,3
+685,Executive Decision (1996),Q1142051,,,,0.65,127,United States of America,0,0
+686,"Perfect World, A (1993)",Q174683,fails,,,0.79,138,United States of America,0,0
+687,McHale's Navy (1997),Q603318,,,,0.03,104,United States of America,0,0
+688,Leave It to Beaver (1997),Q2367963,,,,0.21,88,United States of America,0,0
+689,"Jackal, The (1997)",Q167437,,,,0.23,124,Japan|United States of America|France|United Kingdom|Germany,0,0
+690,Seven Years in Tibet (1997),Q844883,fails,,,0.6,129,United States of America|France|United Kingdom,0,0
+691,Dark City (1998),Q1127281,fails,fails,,0.76,100,United States of America|Australia,0,0
+692,"American President, The (1995)",Q429311,passes,,,0.91,106,United States of America,0,1
+693,Casino (1995),Q220910,fails,,R,0.79,178,United States of America|France,0,1
+694,Persuasion (1995),Q919025,passes,,,0.86,107,United States of America|France|United Kingdom,0,0
+695,Kicking and Screaming (1995),Q3196361,,,,0.57,96,United States of America,0,0
+696,City Hall (1996),Q44686,,,,0.56,107,United States of America,0,0
+697,"Basketball Diaries, The (1995)",Q962809,fails,,,0.45,90,United States of America,0,0
+698,"Browning Version, The (1994)",Q1569614,,,,0.78,93,United Kingdom,0,0
+699,Little Women (1994),Q850522,passes,passes,PG,0.92,115,United States of America,0,3
+700,Miami Rhapsody (1995),Q908983,,,,0.45,112,United States of America,0,0
+701,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",Q3822468,,,,0.96,183,Germany,0,0
+702,Barcelona (1994),Q3755043,,,,,,,0,0
+703,Widows' Peak (1994),Q3365051,,,,0.94,101,United Kingdom,0,0
+704,"House of the Spirits, The (1993)",Q312394,passes,,,0.32,141,United States of America|Denmark|Portugal|France|Germany,0,0
+705,Singin' in the Rain (1952),Q1187360,,,,,,,0,0
+706,Bad Moon (1996),Q798740,,,,0.33,77,United States of America,0,0
+707,Enchanted April (1991),Q1972135,passes,,,0.84,95,Italy|United Kingdom,0,3
+708,"Sex, Lies, and Videotape (1989)",Q1367548,fails,,,0.96,101,United States of America,0,1
+709,Strictly Ballroom (1992),Q1346439,fails,,,0.89,94,Australia,0,0
+710,Better Off Dead... (1985),Q1041839,passes,,,0.76,93,United States of America,0,0
+711,"Substance of Fire, The (1996)",Q1670780,,,,0.6,97,United States of America,0,0
+712,Tin Men (1987),Q929144,,,,0.77,112,United States of America,0,0
+713,Othello (1995),Q2036869,fails,,R,0.67,123,United States of America|United Kingdom,0,0
+714,Carrington (1995),Q2658045,,,,0.52,121,France|United Kingdom,0,0
+715,To Die For (1995),Q590701,,,,0.88,102,United States of America|United Kingdom,0,0
+716,Home for the Holidays (1995),Q1395242,passes,,,0.64,103,United States of America,0,0
+717,"Juror, The (1996)",Q1475275,,,,0.18,116,United States of America,0,0
+718,In the Bleak Midwinter (1995),Q2245295,,,,0.81,99,United Kingdom,0,0
+719,Canadian Bacon (1994),Q11106,,,,,,,0,0
+720,First Knight (1995),Q333971,fails,,,0.43,129,United States of America,0,0
+721,Mallrats (1995),Q39999,fails,,R,0.57,94,United States of America,0,0
+722,Nine Months (1995),Q955389,,,,0.26,103,United States of America,0,0
+723,Boys on the Side (1995),Q620099,passes,,,0.74,117,United States of America,0,0
+724,Circle of Friends (1995),Q721415,passes,,,0.78,103,Republic of Ireland|United States of America|United Kingdom,0,0
+725,Exit to Eden (1994),Q642925,,,,0.06,120,United States of America,0,0
+726,Fluke (1995),Q1266693,,,,0.27,90,United States of America,0,0
+727,Immortal Beloved (1994),Q1754839,,,,0.56,120,United States of America|Italy|United Kingdom,0,0
+728,Junior (1994),Q129265,,,,0.36,106,United States of America,0,0
+729,Nell (1994),Q612323,,,,0.55,112,United States of America,0,1
+730,"Queen Margot (Reine Margot, La) (1994)",Q508766,,,,0.82,162,Italy|France|Germany,0,1
+731,"Corrina, Corrina (1994)",Q1135365,passes,,,0.39,114,United States of America,0,0
+732,Dave (1993),Q310315,,,,,,,0,0
+733,Go Fish (1994),Q2256780,passes,,,0.75,87,United States of America,0,0
+734,Made in America (1993),Q950139,,,,0.31,106,United States of America,0,0
+735,Philadelphia (1993),Q204057,fails,,,0.8,125,United States of America,2,3
+736,Shadowlands (1993),Q1403132,,,,0.97,131,United States of America|United Kingdom,0,2
+737,Sirens (1994),Q1542458,passes,,,0.74,95,United Kingdom|Australia,0,0
+738,Threesome (1994),Q1308638,,,,0.28,93,United States of America,0,0
+739,Pretty Woman (1990),Q207954,passes,,,0.66,119,United States of America,0,1
+740,Jane Eyre (1996),Q1682593,passes,,,0.74,112,United States of America|Italy|France|United Kingdom,0,0
+741,"Last Supper, The (1995)",Q51633,,,,,,,0,0
+742,Ransom (1996),Q752362,,,,0.75,116,United States of America,0,0
+743,"Crow: City of Angels, The (1996)",Q302181,,,,0.11,82,United States of America,0,0
+744,Michael Collins (1996),Q430535,fails,fails,R,0.77,133,Republic of Ireland|United States of America|France|United Kingdom,0,2
+745,"Ruling Class, The (1972)",Q1890531,,,,0.83,154,United Kingdom,0,1
+746,Real Genius (1985),Q1730419,fails,,,0.74,108,United States of America,0,0
+747,Benny & Joon (1993),Q793074,fails,passes,,0.76,99,United States of America,0,0
+748,"Saint, The (1997)",Q1753817,,,,0.3,111,United States of America,0,0
+749,"MatchMaker, The (1997)",Q466929,,,,0.5,97,Republic of Ireland|United States of America|United Kingdom,0,0
+750,Amistad (1997),Q472361,,,,0.77,152,United States of America,0,4
+751,Tomorrow Never Dies (1997),Q207916,fails,fails,,0.56,119,United States of America|United Kingdom|Germany,0,0
+752,"Replacement Killers, The (1998)",Q1212256,,,,0.38,98,United States of America,0,0
+753,Burnt By the Sun (1994),Q1127167,,,,0.8,145,France|Russia,1,1
+754,Red Corner (1997),Q286132,,,,0.3,117,United States of America,0,0
+755,Jumanji (1995),Q222939,passes,,,0.52,101,United States of America,0,0
+756,Father of the Bride Part II (1995),Q1304560,,,,0.5,101,United States of America,0,0
+757,Across the Sea of Time (1995),Q4676502,,,,,,United States of America,0,0
+758,Lawnmower Man 2: Beyond Cyberspace (1996),Q290811,,,,0.11,89,United States of America,0,0
+759,Fair Game (1995),Q120484,,,,0.12,86,United States of America,0,0
+760,Screamers (1995),Q555995,,,,0.29,108,Canada|Japan|United States of America,0,0
+761,Nick of Time (1995),Q909394,passes,,,0.32,90,United States of America,0,0
+762,Beautiful Girls (1996),Q813451,passes,,,0.79,109,United States of America,0,0
+763,Happy Gilmore (1996),Q1313063,,,,0.61,91,United States of America,0,0
+764,If Lucy Fell (1996),Q1514643,,,,0.18,92,United States of America,0,0
+765,Boomerang (1992),Q642511,passes,,,0.43,118,United States of America,0,0
+766,Man of the Year (1995),Q6746431,,,,0.25,,United States of America,0,0
+767,"Addiction, The (1995)",Q2521217,passes,,,0.76,82,United States of America,0,0
+768,Casper (1995),Q1048166,passes,,,0.51,100,United States of America,0,0
+769,Congo (1995),Q598860,fails,,,0.22,104,United States of America|United Kingdom,0,0
+770,Devil in a Blue Dress (1995),Q1850866,fails,,,0.89,97,United States of America,0,0
+771,Johnny Mnemonic (1995),Q1129069,,,,0.19,92,Canada|United States of America,0,0
+772,Kids (1995),Q646426,passes,,,0.46,91,United States of America,0,0
+773,Mute Witness (1994),Q11274116,,,,,,India,0,0
+774,"Prophecy, The (1995)",Q1534001,,,,0.43,98,United States of America,0,0
+775,Something to Talk About (1995),Q1544085,,,,0.39,106,United States of America,0,0
+776,Three Wishes (1995),Q3998104,,,,0.13,115,United States of America,0,0
+777,Castle Freak (1995),Q1049417,,,,0.57,95,United States of America,0,0
+778,Don Juan DeMarco (1995),Q492132,,,,0.69,97,United States of America,0,0
+779,Drop Zone (1994),Q1260289,fails,,R,0.41,102,United States of America,0,0
+780,Dumb & Dumber (1994),Q462418,fails,,PG-13,0.67,109,United States of America,0,0
+781,French Kiss (1995),Q1455280,fails,,,0.48,111,United States of America|United Kingdom,0,0
+782,Little Odessa (1994),Q628589,,,,0.59,98,United States of America,0,0
+783,Milk Money (1994),Q2301732,,,,0.12,104,United States of America,0,0
+784,Beyond Bedlam (1993),Q2059013,,,,,,,0,0
+785,Only You (1994),Q1540554,,,,0.54,104,United States of America|Italy,0,0
+786,"Perez Family, The (1995)",Q610097,,,,0.67,108,United States of America,0,0
+787,Roommates (1995),Q379190,,,,0.29,108,United States of America,0,1
+788,Relative Fear (1994),Q7310771,,,,,94,Canada,0,0
+789,Swimming with Sharks (1995),Q1629547,,,R,0.78,89,United States of America,0,0
+790,Tommy Boy (1995),Q644041,passes,,,0.42,97,United States of America,0,0
+791,"Baby-Sitters Club, The (1995)",Q3108867,,,,,,United States of America,0,0
+792,Bullets Over Broadway (1994),Q1004531,,,,0.97,98,United States of America,1,7
+793,Crooklyn (1994),Q2534007,passes,,,0.77,115,United States of America,0,0
+794,It Could Happen to You (1994),Q222868,fails,,,0.71,97,United States of America,0,0
+795,Richie Rich (1994),Q506394,,,PG,0.24,90,United States of America,0,0
+796,Speechless (1994),Q1322346,,,,0.11,94,United States of America,0,0
+797,Timecop (1994),Q240849,fails,,R,0.45,98,Canada|Japan|United States of America,0,0
+798,Bad Company (1995),Q798662,,,,0.27,103,United States of America,0,0
+799,Boys Life (1995),Q460379,fails,,R,0.42,114,United States of America,0,0
+800,In the Mouth of Madness (1995),Q1214972,fails,fails,,0.58,95,United States of America,0,0
+801,"Air Up There, The (1994)",Q2430523,,,,0.21,107,United States of America,0,0
+802,Hard Target (1993),Q574993,fails,,,0.56,95,United States of America,0,0
+803,Heaven & Earth (1993),Q244876,fails,,,0.4,140,United States of America|France,0,0
+804,Jimmy Hollywood (1994),Q1688957,,,,0.22,113,United States of America,0,0
+805,Manhattan Murder Mystery (1993),Q1133277,passes,,,0.94,103,United States of America,0,0
+806,Menace II Society (1993),Q1542944,fails,fails,,0.83,97,United States of America,0,0
+807,Poetic Justice (1993),Q1537562,passes,,,0.34,109,United States of America,0,0
+808,"Program, The (1993)",Q826289,,,R,0.43,114,United States of America,0,0
+809,Rising Sun (1993),Q1217573,fails,,,0.33,124,United States of America,0,0
+810,"Shadow, The (1994)",Q1546938,fails,,,0.35,108,United States of America,0,0
+811,Thirty-Two Short Films About Glenn Gould (1993),Q7785228,,,,0.92,93,Canada,0,0
+812,Andre (1994),Q112082193,,,,,,,0,0
+813,"Celluloid Closet, The (1995)",Q535096,passes,,,0.97,107,United States of America,0,0
+814,"Great Day in Harlem, A (1994)",Q300425,,,,,,,0,0
+815,One Fine Day (1996),Q743487,,,,0.51,105,United States of America,0,0
+816,Candyman: Farewell to the Flesh (1995),Q1033094,,,,0.25,93,United States of America|United Kingdom,0,0
+817,Frisk (1995),Q5504712,,,,,,United States of America,0,0
+818,Girl 6 (1996),Q2517431,,,,0.33,108,United States of America,0,0
+819,Eddie (1996),Q5335870,,,,,,,0,0
+820,Space Jam (1996),Q207659,fails,,PG,0.43,88,United States of America,0,0
+821,Mrs. Winterbourne (1996),Q371885,,,,0.1,105,United States of America,0,0
+822,Faces (1968),Q2241601,,,,0.83,130,United States of America,0,3
+823,Mulholland Falls (1996),Q1093391,,,,0.31,107,United States of America,0,0
+824,"Great White Hype, The (1996)",Q1514095,,,,0.45,87,United States of America,0,0
+825,"Arrival, The (1996)",Q540318,,,PG-13,0.65,115,United States of America|Mexico,0,0
+826,"Phantom, The (1996)",Q1170071,passes,,,0.43,96,United States of America|Australia,0,0
+827,Daylight (1996),Q225916,fails,,,0.27,114,United States of America,0,1
+828,Alaska (1996),Q1479235,,,,0.18,109,United States of America,0,0
+829,Fled (1996),Q1109508,,,,0.18,90,United States of America,0,0
+830,Power 98 (1995),Q12355379,,,,,,,0,0
+831,Escape from L.A. (1996),Q741026,fails,,,0.53,97,United States of America,0,0
+832,Bogus (1996),Q290490,,,,0.44,110,United States of America,0,0
+833,Bulletproof (1996),Q1004433,,,,0.08,81,United States of America,0,0
+834,Halloween: The Curse of Michael Myers (1995),Q1138055,,,,0.09,84,United States of America,0,0
+835,"Gay Divorcee, The (1934)",Q947098,,,,0.93,107,United States of America,0,4
+836,Ninotchka (1939),Q589894,passes,,,0.97,110,United States of America,0,4
+837,Meet John Doe (1941),Q1520732,passes,,,0.91,122,United States of America,0,1
+838,In the Line of Duty 2 (1987),Q6561604,,,,,,,0,0
+839,Loch Ness (1995),Q49658,,,,,,,0,0
+840,Last Man Standing (1996),Q1425639,fails,,,0.37,101,United States of America,0,0
+841,"Glimmer Man, The (1996)",Q539545,fails,,,0.11,88,United States of America,0,0
+842,Pollyanna (1960),Q2477507,,,,0.86,134,United States of America,0,0
+843,"Shaggy Dog, The (1959)",Q1608728,,,,,104,United States of America,0,0
+844,Freeway (1996),Q568858,passes,,,0.77,102,United States of America,0,0
+845,That Thing You Do! (1996),Q642410,passes,,,0.93,108,United States of America,0,0
+846,To Gillian on Her 37th Birthday (1996),Q2269039,,,,0.14,93,United States of America,0,0
+847,Looking for Richard (1996),Q1493156,,,,0.81,112,United States of America,0,0
+848,"Murder, My Sweet (1944)",Q2564595,,,,0.94,95,United States of America,0,0
+849,Days of Thunder (1990),Q5243398,,,,,,United Kingdom|Australia,0,0
+850,"Perfect Candidate, A (1996)",Q4658759,,,,0.88,,United States of America,0,0
+851,Two or Three Things I Know About Her (1966),Q232217,,,,0.94,90,Italy|France,0,0
+852,"Bloody Child, The (1996)",Q13587273,,,,,,,0,0
+853,Braindead (1992),Q897429,passes,,,0.88,104,New Zealand,0,0
+854,Bad Taste (1987),Q605204,fails,,,0.71,88,New Zealand,0,0
+855,Diva (1981),Q735383,fails,,,0.96,123,France,0,0
+856,Night on Earth (1991),Q506279,passes,passes,,0.75,123,Japan|United States of America|France|United Kingdom|Germany,0,0
+857,Paris Was a Woman (1995),Q1760597,,,,0.5,97,United States of America,0,0
+858,Amityville: Dollhouse (1996),Q2659131,,,,,97,United States of America,0,0
+859,April Fool's Day (1986),Q692275,passes,,,0.55,88,United States of America,0,0
+860,"Believers, The (1987)",Q1170186,,,,0.39,114,United States of America,0,0
+861,Nosferatu a Venezia (1986),Q160259,fails,,PG,0.95,107,France|Germany,0,0
+862,Jingle All the Way (1996),Q1064530,fails,,,0.2,89,United States of America,0,0
+863,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)",Q683014,,,,1,89,Italy,1,2
+864,My Fellow Americans (1996),Q1305069,,,,0.47,97,United States of America,0,0
+865,"Ice Storm, The (1997)",Q1193138,,,,0.85,112,United States of America,0,0
+866,Michael (1996),Q1752194,passes,,,0.34,105,United States of America,0,0
+867,"Whole Wide World, The (1996)",Q1627661,,,,0.76,111,United States of America,0,0
+868,Hearts and Minds (1996),Q16993840,,,,,,,0,0
+869,Fools Rush In (1997),Q585106,,,,0.34,105,United States of America,0,0
+870,Touch (1997),Q693390,,,,0.33,93,United States of America,0,0
+871,Vegas Vacation (1997),Q930887,passes,,,0.13,93,United States of America,0,0
+872,Love Jones (1997),Q6690892,,,,0.73,108,United States of America,0,0
+873,Picture Perfect (1997),Q1198659,passes,,,0.47,98,United States of America,0,0
+874,Career Girls (1997),Q973124,passes,passes,,,87,United Kingdom,0,0
+875,She's So Lovely (1997),Q637748,,,,0.66,96,United States of America|France,0,0
+876,Money Talks (1997),Q1851378,,,,0.16,91,United States of America,0,0
+877,Excess Baggage (1997),Q2665942,,,,0.32,98,United States of America,0,0
+878,That Darn Cat! (1997),Q662668,,,,0.13,86,United States of America,0,0
+879,"Peacemaker, The (1997)",Q1141706,passes,,,0.43,118,United States of America,0,0
+880,Soul Food (1997),Q1140272,passes,,,0.81,114,United States of America,0,0
+881,Money Talks (1997),Q1851378,,,,0.16,91,United States of America,0,0
+882,Washington Square (1997),Q2298501,,,,0.81,116,United States of America,0,0
+883,Telling Lies in America (1997),Q2276038,,,,0.61,101,United States of America,0,0
+884,Year of the Horse (1997),Q1753426,,,,0.48,106,United States of America,0,0
+885,Phantoms (1998),Q8905685,passes,,,0.13,96,Japan|United States of America,0,0
+886,"Life Less Ordinary, A (1997)",Q496907,fails,,,0.41,99,United States of America|United Kingdom,0,0
+887,Eve's Bayou (1997),Q3284333,passes,,,0.82,109,United States of America,0,0
+888,One Night Stand (1997),Q1616030,,,,0.32,100,United States of America,0,0
+889,"Tango Lesson, The (1997)",Q545616,,,,0.53,101,Netherlands|France|United Kingdom|Germany|Argentina,0,0
+890,Mortal Kombat: Annihilation (1997),Q426837,passes,,,0.04,98,United States of America,0,0
+891,Bent (1997),Q697393,,,NC-17,0.73,108,Japan|United Kingdom,0,0
+892,Flubber (1997),Q1325217,fails,,,0.24,90,United States of America,0,0
+893,For Richer or Poorer (1997),Q185859,passes,,,0.14,111,United States of America,0,0
+894,Home Alone 3 (1997),Q382320,passes,,,0.32,102,United States of America,0,0
+895,Scream 2 (1997),Q270599,passes,passes,,0.81,120,United States of America,0,0
+896,"Sweet Hereafter, The (1997)",Q135315,,,,0.98,112,Canada,0,2
+897,Time Tracers (1995),Q370228,,,,,,,0,0
+898,"Postman, The (1997)",Q1122688,fails,,,0.08,177,United States of America,0,0
+899,"Winter Guest, The (1997)",Q2566986,passes,passes,,0.65,108,United States of America|United Kingdom,0,0
+900,Kundun (1997),Q944291,,,,0.75,134,United States of America,0,4
+901,Mr. Magoo (1997),Q1939314,,,,,,United States of America,0,0
+902,"Big Lebowski, The (1998)",Q337078,fails,fails,R,0.83,117,United States of America|United Kingdom,0,0
+903,Afterglow (1997),Q830430,,,,0.76,114,United States of America,0,1
+904,Ma vie en rose (My Life in Pink) (1997),Q969469,passes,passes,,0.92,85,Belgium|France|United Kingdom,0,0
+905,Great Expectations (1998),Q657259,fails,,,0.37,107,United States of America,0,0
+906,Oscar & Lucinda (1997),Q2033052,,,,0.66,132,United States of America|United Kingdom|Australia,0,1
+907,Vermin (1998),Q16886081,,,,,,United States of America,0,0
+908,Half Baked (1998),Q1570923,,,,0.29,82,United States of America,0,0
+909,Dangerous Beauty (1998),Q187999,passes,,,0.68,107,United States of America,0,0
+910,Nil By Mouth (1997),Q1518031,,,,0.68,128,France|United Kingdom,0,0
+911,Twilight (1998),Q748194,,,,0.6,90,United States of America,0,0
+912,U.S. Marshalls (1998),Q934866,,,,,,,0,0
+913,Love and Death on Long Island (1997),Q2579747,,,,0.87,93,Canada|United Kingdom,0,0
+914,Wild Things (1998),Q1133610,passes,,,0.63,108,United States of America,0,0
+915,Primary Colors (1998),Q1480617,passes,,,0.81,138,United States of America,0,2
+916,Lost in Space (1998),Q502908,passes,,,0.28,125,United States of America,0,0
+917,Mercury Rising (1998),Q267321,fails,,,0.21,108,United States of America,0,0
+918,City of Angels (1998),Q168010,passes,,,0.58,114,United States of America|Germany,0,0
+919,"City of Lost Children, The (1995)",Q749988,passes,,,0.79,108,Spain|Belgium|France|Germany,0,0
+920,Two Bits (1995),Q2546088,,,,0.4,85,United States of America,0,0
+921,Farewell My Concubine (1993),Q696413,fails,passes,R,0.86,171,People's Republic of China,0,2
+922,Dead Man (1995),Q547189,fails,fails,,0.71,116,Japan|United States of America|Germany,0,0
+923,Raise the Red Lantern (1991),Q665146,passes,passes,PG,0.96,125,People's Republic of China,0,1
+924,White Squall (1996),Q1756394,,,,0.58,125,United States of America|United Kingdom,0,0
+925,Unforgettable (1996),Q2079258,,,,0.21,116,United States of America,0,0
+926,Down Periscope (1996),Q1567203,fails,,,0.12,92,United States of America,0,0
+927,"Flower of My Secret, The (Flor de mi secreto, La) (1995)",Q931753,passes,,,0.83,103,Spain|France,0,0
+928,"Craft, The (1996)",Q937005,passes,passes,,0.57,101,United States of America,0,0
+929,Harriet the Spy (1996),Q934004,passes,,,0.48,100,United States of America,0,0
+930,Chain Reaction (1996),Q499692,fails,,,0.18,106,United States of America,0,0
+931,"Island of Dr. Moreau, The (1996)",Q1091580,,,,0.24,97,United States of America,0,0
+932,First Kid (1996),Q1627076,,,,0.2,97,United States of America,0,0
+933,"Funeral, The (1996)",Q597046,passes,,,0.79,99,United States of America,0,0
+934,"Preacher's Wife, The (1996)",Q1475674,passes,,,0.62,119,United States of America,0,1
+935,Paradise Road (1997),Q1970669,passes,,,0.45,123,United States of America|Australia,0,0
+936,Brassed Off (1996),Q748988,passes,,,0.79,107,United Kingdom,0,0
+937,"Thousand Acres, A (1997)",Q766463,,,,0.24,101,United States of America,0,0
+938,"Smile Like Yours, A (1997)",Q300560,,,,0.06,94,United States of America,0,0
+939,Murder in the First (1995),Q1154802,,,,0.5,122,United States of America|France,0,0
+940,Airheads (1994),Q408725,fails,,,0.23,88,United States of America,0,0
+941,With Honors (1994),Q1083372,,,,0.16,97,United States of America,0,0
+942,What's Love Got to Do with It (1993),Q1471849,passes,,,0.97,118,United States of America,0,2
+943,Killing Zoe (1994),Q1500287,,,,0.36,96,United States of America|France,0,0
+944,Renaissance Man (1994),Q129288,fails,,,0.12,117,United States of America,0,0
+945,Charade (1963),Q496266,fails,,,0.94,113,United States of America,0,0
+946,"Fox and the Hound, The (1981)",Q40302,fails,fails,G,0.7,83,United States of America,0,0
+947,"Big Blue, The (Grand bleu, Le) (1988)",Q517239,fails,,,0.62,132,United States of America|Italy|France,0,0
+948,Booty Call (1997),Q845157,,,,0.25,76,United States of America,0,0
+949,How to Make an American Quilt (1995),Q493799,passes,passes,,0.63,112,United States of America,0,0
+950,Georgia (1995),Q1509291,,,,0.8,118,United States of America|France,0,1
+951,"Indian in the Cupboard, The (1995)",Q1194561,,,,0.73,96,United States of America,0,0
+952,Blue in the Face (1995),Q2478977,,,,0.43,83,United States of America,0,0
+953,Unstrung Heroes (1995),Q2562722,,,,0.75,93,United States of America,0,1
+954,Unzipped (1995),Q3951309,,,,0.8,73,United States of America,0,0
+955,Before Sunrise (1995),Q659609,passes,passes,R,1,97,United States of America|Switzerland|Austria,0,0
+956,Nobody's Fool (1994),Q1551887,,,,0.91,105,United States of America,0,2
+957,Pushing Hands (1992),Q702270,,,,,105,United States of America|Taiwan,0,0
+958,To Live (Huozhe) (1994),Q151784,,,,0.86,132,People's Republic of China|Hong Kong,0,0
+959,Dazed and Confused (1993),Q39975,passes,,,0.92,98,United States of America,0,0
+960,Naked (1993),Q1963079,passes,,,0.88,132,United Kingdom,0,0
+961,Orlando (1993),Q188384,fails,passes,,0.83,94,Italy|Netherlands|France|United Kingdom|Russia,0,2
+962,Ruby in Paradise (1993),Q753610,passes,,,0.86,,United States of America,0,0
+963,Some Folks Call It a Sling Blade (1993),Q202735,,,,,,,1,3
+964,"Month by the Lake, A (1995)",Q1305148,,,,0.71,88,United States of America|United Kingdom,0,0
+965,Funny Face (1957),Q147068,passes,,,0.87,103,United States of America,0,4
+966,"Affair to Remember, An (1957)",Q303719,fails,,,0.65,119,United States of America,0,3
+967,Little Lord Fauntleroy (1936),Q1199248,,,,0.88,102,United States of America,0,0
+968,"Inspector General, The (1949)",Q1089010,,,,0.9,102,United States of America,0,0
+969,Winnie the Pooh and the Blustery Day (1968),Q1378605,,,,,25,United States of America,1,1
+970,Hear My Song (1991),Q1592367,,,,0.9,113,Republic of Ireland|United Kingdom,0,0
+971,Mediterraneo (1991),Q661660,fails,,,0.79,96,Italy,1,1
+972,Passion Fish (1992),Q431772,passes,,,1,135,United States of America,0,2
+973,Grateful Dead (1995),Q838506,,,,,,,0,0
+974,Eye for an Eye (1996),Q760229,passes,,,0.08,97,United States of America,0,0
+975,Fear (1996),Q1070275,passes,,R,0.46,97,United States of America,0,0
+976,Solo (1996),Q2409724,,,,0.08,94,United States of America,0,0
+977,"Substitute, The (1996)",Q1778407,,,,0.42,114,United States of America,0,0
+978,Heaven's Prisoners (1996),Q249032,,,,0.16,126,United States of America,0,0
+979,"Trigger Effect, The (1996)",Q1198844,,,,0.75,91,United States of America,0,0
+980,Mother Night (1996),Q1470593,,,,,,United States of America,0,0
+981,Dangerous Ground (1997),Q749110,,,,0.08,92,United States of America|South Africa,0,0
+982,Maximum Risk (1996),Q598177,,,,0.31,100,United States of America,0,0
+983,"Rich Man's Wife, The (1996)",Q2463968,,,,0.13,91,United States of America,0,0
+984,Shadow Conspiracy (1997),Q1217242,,,,0,98,United States of America,0,0
+985,Blood & Wine (1997),Q470499,,,,0.61,97,United States of America,0,0
+986,Turbulence (1997),Q727775,,,,0.17,97,United States of America,0,0
+987,Underworld (1997),Q2249650,,,,,,United States of America,0,0
+988,"Beautician and the Beast, The (1997)",Q1289681,,,,0.18,105,United States of America,0,0
+989,Cats Don't Dance (1997),Q930134,passes,,,0.74,78,United States of America,0,0
+990,Anna Karenina (1997),Q84147,,,,0.26,108,United States of America|United Kingdom,0,0
+991,Keys to Tulsa (1997),Q1520955,,,,0.1,113,United States of America,0,0
+992,Head Above Water (1996),Q1783958,,,,0.4,88,United States of America,0,0
+993,Hercules (1997),Q271189,passes,fails,G,0.84,92,United States of America,0,0
+994,"Last Time I Committed Suicide, The (1997)",Q1508993,,,,,89,United States of America,0,0
+995,"Kiss Me, Guido (1997)",Q691555,,,,0.4,86,United States of America,0,0
+996,"Big Green, The (1995)",Q753676,,,,0,96,United States of America,0,0
+997,Stuart Saves His Family (1995),Q7627071,,,,0.3,99,United States of America,0,0
+998,Cabin Boy (1994),Q2724012,,,,,80,United States of America,0,0
+999,Clean Slate (1994),Q880897,,,,0.19,103,United States of America,0,0
+1000,Lightning Jack (1994),Q1511623,,,,0.06,98,United States of America|Australia,0,0
+1001,"Stupids, The (1996)",Q3490545,,,,0.2,94,Canada|United States of America|United Kingdom,0,0
+1002,"Pest, The (1997)",Q2413429,,,,0.08,82,United States of America,0,0
+1003,That Darn Cat! (1997),Q662668,,,,0.13,86,United States of America,0,0
+1004,Geronimo: An American Legend (1993),Q1514670,,,,0.48,110,United States of America,0,1
+1005,"Double vie de Véronique, La (Double Life of Veronique, The) (1991)",Q1130211,passes,,R,0.83,98,Poland|France,0,0
+1006,Until the End of the World (Bis ans Ende der Welt) (1991),Q571053,passes,,,0.88,158,France|Germany|Australia,0,0
+1007,Waiting for Guffman (1996),Q2699996,passes,,,0.91,84,United States of America,0,0
+1008,I Shot Andy Warhol (1996),Q1582860,passes,,,0.77,103,United States of America|United Kingdom,0,0
+1009,Stealing Beauty (1996),Q749191,passes,,,0.51,113,Italy|France|United Kingdom,0,0
+1010,Basquiat (1996),Q810441,fails,,,0.68,102,United States of America,0,0
+1011,2 Days in the Valley (1996),Q222873,passes,,,0.63,101,United States of America,0,0
+1012,Private Parts (1997),Q781344,,,,0.75,109,United States of America,0,0
+1013,Anaconda (1997),Q464042,fails,,,0.37,89,United States of America,0,0
+1014,Romy and Michele's High School Reunion (1997),Q1854476,passes,passes,,0.73,88,United States of America,0,0
+1015,Shiloh (1997),Q3481656,,,,0.73,93,United States of America,0,0
+1016,Con Air (1997),Q607910,fails,,R,0.56,115,United States of America,0,1
+1017,Trees Lounge (1996),Q2602493,,,,0.81,95,United States of America,0,0
+1018,Tie Me Up! Tie Me Down! (1990),Q600176,,,NC-17,0.67,111,Spain,0,0
+1019,"Die xue shuang xiong (Killer, The) (1989)",Q269326,fails,fails,,0.98,107,Hong Kong,0,0
+1020,Gaslight (1944),Q841781,,,,0.88,114,United States of America,2,7
+1021,8 1/2 (1963),Q12018,passes,fails,,0.98,138,Italy|France,2,5
+1022,"Fast, Cheap & Out of Control (1997)",Q3067091,,,,0.91,80,United States of America,0,0
+1023,Fathers' Day (1997),Q1305299,,,,0.25,95,United States of America,0,0
+1024,Mrs. Dalloway (1997),Q12126327,passes,,,0.71,97,United States of America|Netherlands|United Kingdom,0,0
+1025,Fire Down Below (1997),Q1418758,,,,0.14,100,United States of America,0,0
+1026,"Lay of the Land, The (1997)",Q64221112,,,,,,United States of America,0,0
+1027,"Shooter, The (1995)",Q2625451,,,,,104,Spain|United States of America|France|Czech Republic,0,0
+1028,Grumpier Old Men (1995),Q782465,,,,0.17,97,United States of America,0,0
+1029,Jury Duty (1995),Q428668,,,,0,84,United States of America,0,0
+1030,"Beverly Hillbillies, The (1993)",Q1211343,passes,,,0.22,93,United States of America,0,0
+1031,Lassie (1994),Q638550,,,,0.88,94,United States of America,0,0
+1032,Little Big League (1994),Q934614,,,,0.35,119,United States of America,0,0
+1033,Homeward Bound II: Lost in San Francisco (1996),Q889691,fails,,,0.53,89,United States of America,0,0
+1034,"Quest, The (1996)",Q1469524,fails,,,0.14,94,United States of America,0,0
+1035,Cool Runnings (1993),Q282748,fails,,PG,0.76,98,Canada|United States of America,0,0
+1036,Drop Dead Fred (1991),Q53703,,,,0.11,99,United States of America|United Kingdom,0,0
+1037,Grease 2 (1982),Q1138932,passes,,,0.39,115,United States of America,0,0
+1038,Switchback (1997),Q2092528,,,,0.32,118,United States of America,0,0
+1039,Hamlet (1996),Q898721,fails,,,0.95,233,United States of America|United Kingdom,0,4
+1040,Two if by Sea (1996),Q1519553,,,,0.11,92,United States of America,0,0
+1041,Forget Paris (1995),Q1760597,,,,0.5,97,United States of America,0,0
+1042,Just Cause (1995),Q1659511,,,,0.26,98,United States of America,0,0
+1043,Rent-a-Kid (1995),Q2977849,,,,,,United States of America,0,0
+1044,"Paper, The (1994)",Q1747211,,,,0.88,107,United States of America,0,0
+1045,Fearless (1993),Q255742,,,,0.85,117,United States of America,0,1
+1046,Malice (1993),Q1740859,,,,0.57,102,United States of America,0,0
+1047,Multiplicity (1996),Q774732,,,,0.43,113,United States of America,0,0
+1048,She's the One (1996),Q1480910,,,,0.61,93,United States of America,0,0
+1049,House Arrest (1996),Q1460493,,,,0.1,109,United States of America,0,0
+1050,"Ghost and Mrs. Muir, The (1947)",Q1304578,passes,,,1,104,United States of America,0,1
+1051,"Associate, The (1996)",Q1974702,passes,,,0.28,109,United States of America,0,0
+1052,Dracula: Dead and Loving It (1995),Q1254469,passes,,,0.11,88,United States of America|Italy|France,0,0
+1053,Now and Then (1995),Q614966,passes,,,0.3,100,United States of America,0,0
+1054,Mr. Wrong (1996),Q521290,passes,,,0.07,94,United States of America,0,0
+1055,"Simple Twist of Fate, A (1994)",Q471401,,,,0.43,106,United States of America,0,0
+1056,Cronos (1992),Q1140945,,,,0.91,94,Mexico,0,0
+1057,"Pallbearer, The (1996)",Q602289,,,,0.45,94,United States of America,0,0
+1058,"War, The (1994)",Q2461485,,,,,,,0,0
+1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),Q1619928,,,,0.31,89,United States of America,0,0
+1060,"Adventures of Pinocchio, The (1996)",Q336835,,,,0.35,94,United States of America|France|United Kingdom|Germany|Czech Republic,0,0
+1061,"Evening Star, The (1996)",Q1678645,,,,0.22,123,United States of America,0,0
+1062,Four Days in September (1997),Q137703,,,,0.59,106,United States of America|Brazil,0,1
+1063,"Little Princess, A (1995)",Q1216898,passes,,,0.97,97,United States of America,0,2
+1064,Crossfire (1947),Q632718,fails,,,0.85,88,United States of America,0,5
+1065,Koyaanisqatsi (1983),Q1127828,fails,,,0.9,87,United States of America,0,0
+1066,Balto (1995),Q764116,fails,,,0.54,78,United States of America,0,0
+1067,Bottle Rocket (1996),Q514565,,,R,0.85,88,United States of America,0,0
+1068,"Star Maker, The (Uomo delle stelle, L') (1995)",Q586569,,,,,113,Italy,0,1
+1069,Amateur (1994),Q455552,passes,,,0.78,105,United States of America|France|United Kingdom,0,0
+1070,Living in Oblivion (1995),Q1648536,,,,0.88,89,United States of America,0,0
+1071,Party Girl (1995),Q3367009,passes,,,,94,United States of America,0,0
+1072,"Pyromaniac's Love Story, A (1995)",Q4659081,,,,0,,United States of America,0,0
+1073,Shallow Grave (1994),Q506032,,,,0.7,89,United Kingdom,0,0
+1074,Reality Bites (1994),Q1423849,passes,,,0.64,94,United States of America,0,0
+1075,"Man of No Importance, A (1994)",Q3283966,,,,0.86,99,Republic of Ireland|United Kingdom,0,0
+1076,"Pagemaster, The (1994)",Q1196110,fails,,,0.21,76,United States of America,0,0
+1077,Love and a .45 (1994),Q1872448,,,,0.83,,United States of America,0,0
+1078,Oliver & Company (1988),Q216929,fails,fails,G,0.54,72,United States of America,0,0
+1079,Joe's Apartment (1996),Q956636,,,,0.19,78,United States of America,0,0
+1080,Celestial Clockwork (1994),Q6165574,,,,,,,0,0
+1081,Curdled (1996),Q961100,passes,,,0.17,88,United States of America,0,0
+1082,Female Perversions (1996),Q321454,passes,,,0.7,112,United States of America|Germany,0,0
+1083,Albino Alligator (1996),Q1778856,,,,0.5,97,United States of America|France,0,0
+1084,Anne Frank Remembered (1995),Q466765,,,,0.97,122,United States of America|United Kingdom,1,0
+1085,Carried Away (1996),Q3765954,,,,0.64,109,United States of America,0,0
+1086,It's My Party (1995),Q3367009,passes,,,,94,United States of America,0,0
+1087,Bloodsport 2 (1995),Q4928009,,,,,,,0,0
+1088,Double Team (1997),Q1251504,,,,0.11,93,United States of America,0,0
+1089,Speed 2: Cruise Control (1997),Q831800,,,,0.04,121,United States of America,0,0
+1090,Sliver (1993),Q581642,passes,,,0.11,103,United States of America,0,0
+1091,Pete's Dragon (1977),Q1332299,fails,,,0.56,134,United States of America,0,1
+1092,Dear God (1996),Q691027,,,,0.12,112,United States of America,0,0
+1093,Live Nude Girls (1995),Q3256959,,,,0.38,95,United States of America,0,0
+1094,"Thin Line Between Love and Hate, A (1996)",Q929293,,,,0.12,108,United States of America,0,0
+1095,High School High (1996),Q1302821,,,,0.19,82,United States of America,0,0
+1096,Commandments (1997),Q746733,fails,,G,0.84,220,United States of America,1,7
+1097,"Hate (Haine, La) (1995)",Q466101,fails,fails,,1,96,France,0,0
+1098,Flirting With Disaster (1996),Q1428990,,,,0.87,89,United States of America,0,0
+1099,"Red Firecracker, Green Firecracker (1994)",Q588748,,,,,,,0,0
+1100,What Happened Was... (1994),Q7991117,,,R,0.91,,United States of America,0,0
+1101,Six Degrees of Separation (1993),Q1169609,passes,,,0.88,107,United States of America,0,1
+1102,Two Much (1996),Q1971683,,,,0.14,113,Spain|United States of America,0,0
+1103,Trust (1990),Q2545805,,,R,0.83,107,United States of America,0,0
+1104,C'est arrivé près de chez vous (1992),Q491871,,fails,NC-17,0.74,95,Belgium,0,0
+1105,Firestorm (1998),Q484857,,,,0.12,89,United States of America,0,0
+1106,"Newton Boys, The (1998)",Q1215169,,,,0.64,117,United States of America,0,0
+1107,Beyond Rangoon (1995),Q1753610,,,,0.38,95,United States of America|United Kingdom,0,0
+1108,Feast of July (1995),Q5439538,,,,0.6,116,United Kingdom,0,0
+1109,Death and the Maiden (1994),Q466265,fails,,,0.82,103,United States of America|France|United Kingdom,0,0
+1110,Tank Girl (1995),Q2300632,passes,passes,,0.4,98,United States of America,0,0
+1111,Double Happiness (1994),Q5299794,,,,0.73,,Canada,0,0
+1112,Cobb (1994),Q2364759,,,,0.65,128,United States of America,0,0
+1113,Mrs. Parker and the Vicious Circle (1994),Q175278,,,,0.75,125,United States of America,0,0
+1114,Faithful (1996),Q1755355,,,,0.07,91,United States of America,0,0
+1115,Twelfth Night (1996),Q1525083,passes,,,0.76,128,Republic of Ireland|United States of America|United Kingdom,0,0
+1116,"Mark of Zorro, The (1940)",Q1541847,,,,0.91,94,United States of America,0,1
+1117,Surviving Picasso (1996),Q1680069,,,,0.32,120,United States of America,0,0
+1118,Up in Smoke (1978),Q1381289,,,,0.47,82,United States of America,0,0
+1119,Some Kind of Wonderful (1987),Q130868,,,,0.75,95,United States of America,0,0
+1120,I'm Not Rappaport (1996),Q4818911,,,,0.38,135,United States of America,0,0
+1121,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",Q163868,passes,,,0.99,91,France|West Germany,0,4
+1122,They Made Me a Criminal (1939),Q3163547,,,,,92,United States of America,0,0
+1123,"Last Time I Saw Paris, The (1954)",Q1158191,,,,0.88,116,United States of America,0,0
+1124,"Farewell to Arms, A (1932)",Q1575490,passes,fails,,0.94,80,United States of America,2,4
+1125,"Innocents, The (1961)",Q666082,passes,passes,,0.95,100,United Kingdom,0,0
+1126,"Old Man and the Sea, The (1958)",Q1198269,,,,0.8,86,United States of America,1,3
+1127,"Truman Show, The (1998)",Q214801,fails,,,0.95,99,United States of America,0,3
+1128,Heidi Fleiss: Hollywood Madam (1995) ,Q271732,,,,,,,0,0
+1129,Chungking Express (1994),Q766263,fails,passes,PG-13,0.89,102,Hong Kong,0,0
+1130,Jupiter's Wife (1994),Q4649,,,,,,,0,0
+1131,Safe (1995),Q2731453,passes,passes,R,0.87,119,United States of America|United Kingdom,0,0
+1132,Feeling Minnesota (1996),Q1937392,,,,0.14,95,United States of America,0,0
+1133,Escape to Witch Mountain (1975),Q1212511,,,,0.76,97,United States of America,0,0
+1134,Get on the Bus (1996),Q2154858,,,,0.89,122,United States of America,0,0
+1135,"Doors, The (1991)",Q45354,,,,,,United States of America,0,0
+1136,Ghosts of Mississippi (1996),Q997206,,,,0.43,130,United States of America,0,2
+1137,Beautiful Thing (1996),Q813461,passes,,,0.91,90,United Kingdom,0,0
+1138,Best Men (1997),Q885295,,,,0.13,86,United States of America,0,0
+1139,Hackers (1995),Q13908,fails,,,0.32,107,United States of America,0,0
+1140,"Road to Wellville, The (1994)",Q1999631,passes,,,0.41,115,United States of America,0,0
+1141,"War Room, The (1993)",Q743292,,,,0.96,96,United States of America,0,1
+1142,When We Were Kings (1996),Q1779974,,,,0.98,85,United States of America,1,0
+1143,Hard Eight (1996),Q1752509,fails,,,0.81,98,United States of America,0,0
+1144,"Quiet Room, The (1996)",Q3425650,,,,,93,Italy|Australia,0,0
+1145,Blue Chips (1994),Q885659,,,,0.37,108,United States of America,0,0
+1146,Calendar Girl (1993),Q3402011,,,,0.11,90,United States of America,0,0
+1147,My Family (1995),Q1783892,,,,0.79,121,United States of America,0,1
+1148,Tom & Viv (1994),Q559429,,,,0.31,125,United States of America|United Kingdom,0,2
+1149,Walkabout (1971),Q1342653,fails,,,0.84,100,United Kingdom|Australia,0,0
+1150,Last Dance (1996),Q1806702,,,,0.32,99,United States of America,0,0
+1151,Original Gangstas (1996),Q7102539,,,,0.53,98,United States of America,0,0
+1152,In Love and War (1996),Q912451,,,,0.11,109,United States of America,0,0
+1153,Backbeat (1993),Q593772,,,,0.69,96,United Kingdom|Germany,0,0
+1154,Alphaville (1965),Q542688,fails,,,0.91,89,Italy|France,0,0
+1155,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",Q3235137,,,,,99,France,0,0
+1156,Cyclo (1995),Q2253032,,,,0.73,123,France|Vietnam,0,0
+1157,"Relic, The (1997)",Q1170168,,,,0.92,110,United States of America,0,0
+1158,"Fille seule, La (A Single Girl) (1995)",Q3208935,,,,,90,France,0,0
+1159,Stalker (1979),Q200437,fails,,,1,163,Soviet Union,0,0
+1160,Love! Valour! Compassion! (1997),Q16252708,,,,0.67,108,United States of America,0,0
+1161,Palookaville (1996),Q1553755,,,,0.64,89,United States of America,0,0
+1162,Phat Beach (1996),Q7181075,,,,,,United States of America,0,0
+1163,"Portrait of a Lady, The (1996)",Q861017,,,,,,England,0,0
+1164,Zeus and Roxanne (1997),Q197011,,,,0.44,98,United States of America,0,0
+1165,Big Bully (1996),Q4905397,,,,0,91,United States of America,0,0
+1166,Love & Human Remains (1993),Q1759628,,,,0.69,96,Canada,0,0
+1167,"Sum of Us, The (1994)",Q1518910,fails,fails,,,100,Australia,0,0
+1168,Little Buddha (1993),Q1141873,fails,,,0.68,140,United States of America|Italy|France|United Kingdom|Liechtenstein,0,0
+1169,Fresh (1994),Q503199,,,,0.88,109,United States of America|France,0,0
+1170,Spanking the Monkey (1994),Q1757776,,,,0.91,100,United States of America,0,0
+1171,Wild Reeds (1994),Q1656834,,,,1,110,France,0,0
+1172,"Women, The (1939)",Q348678,passes,,,0.94,130,United States of America,0,0
+1173,Bliss (1997),Q23016667,,,,0.5,103,United States of America,0,0
+1174,Caught (1996),Q1051525,,,,0.77,110,United States of America,0,0
+1175,Hugo Pool (1997),Q1921451,,,,0.31,92,United States of America,0,0
+1176,Welcome To Sarajevo (1997),Q750917,,fails,,0.8,97,United States of America|United Kingdom,0,0
+1177,Dunston Checks In (1996),Q645480,,,,0.12,84,United States of America,0,0
+1178,Major Payne (1994),Q506891,,,,,,,0,0
+1179,Man of the House (1995),Q158559,,,,0.14,96,United States of America,0,0
+1180,I Love Trouble (1994),Q1481578,,,,0.22,123,United States of America,0,0
+1181,"Low Down Dirty Shame, A (1994)",Q1962426,,,,0,108,United States of America,0,0
+1182,Cops and Robbersons (1994),Q1131562,,,,0.14,89,United States of America,0,0
+1183,"Cowboy Way, The (1994)",Q947140,,,,0.21,107,United States of America,0,0
+1184,"Endless Summer 2, The (1994)",Q931146,,,,1,95,United States of America,0,0
+1185,In the Army Now (1994),Q3053490,,,,0.06,,United States of America,0,0
+1186,"Inkwell, The (1994)",Q7742061,,,,0.25,,United States of America,0,0
+1187,Switchblade Sisters (1975),Q1211739,passes,,,0.52,91,United States of America,0,0
+1188,Young Guns II (1990),Q883213,,,,0.35,104,United States of America,0,0
+1189,Prefontaine (1997),Q2657831,,,,0.56,107,United States of America,0,0
+1190,That Old Feeling (1997),Q1476951,,,,0.43,101,United States of America,0,0
+1191,"Letter From Death Row, A (1998)",Q4657689,,,,,,,0,0
+1192,"Boys of St. Vincent, The (1993)",Q2595588,,,,,186,Canada,0,0
+1193,Before the Rain (Pred dozhdot) (1994),Q4880362,,,,,,,0,0
+1194,Once Were Warriors (1994),Q919579,,,,0.93,99,New Zealand,0,0
+1195,Strawberry and Chocolate (Fresa y chocolate) (1993),Q925448,,,,0.81,108,Spain|Mexico|Cuba,0,1
+1196,"Savage Nights (Nuits fauves, Les) (1992)",Q174785,,,,0.63,126,Italy|France,0,0
+1197,"Family Thing, A (1996)",Q300401,,,,0.73,105,United States of America,0,0
+1198,Purple Noon (1960),Q919444,,,,0.95,115,Italy|France,0,0
+1199,Cemetery Man (Dellamorte Dellamore) (1994),Q929886,,,,0.6,92,Italy|France|Germany,0,0
+1200,Kim (1950),Q1233030,,,,0.78,113,United States of America,0,0
+1201,Marlene Dietrich: Shadow and Light (1996) ,Q4612,,,,,,,0,1
+1202,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)",Q491386,,,,0.5,90,Germany,0,0
+1203,Top Hat (1935),Q1139031,fails,,,1,101,United States of America,0,2
+1204,To Be or Not to Be (1942),Q704972,fails,,,0.96,93,United States of America,0,1
+1205,"Secret Agent, The (1996)",Q2975672,,,,0.5,96,United Kingdom,0,0
+1206,Amos & Andrew (1993),Q474199,,,,0.17,96,United States of America,0,0
+1207,Jade (1995),Q889386,,,,0.13,91,United States of America,0,0
+1208,Kiss of Death (1995),Q2000941,,,,0.68,97,United States of America,0,0
+1209,Mixed Nuts (1994),Q1824522,,,,0.1,93,United States of America,0,0
+1210,Virtuosity (1995),Q187414,,,,0.32,102,United States of America,0,0
+1211,Blue Sky (1994),Q1849813,passes,,,0.79,97,United States of America,1,1
+1212,Flesh and Bone (1993),Q1413403,,,,0.65,121,United States of America,0,0
+1213,Guilty as Sin (1993),Q387868,fails,,,0.38,107,United States of America,0,0
+1214,In the Realm of the Senses (Ai no corrida) (1976),Q510181,passes,,NC-17,0.86,105,Japan|France,0,0
+1215,Barb Wire (1996),Q807302,passes,passes,,0.27,98,United States of America,0,0
+1216,Kissed (1996),Q939844,passes,passes,,0.7,88,Canada,0,0
+1217,Assassins (1995),Q739498,fails,,,0.16,132,United States of America|France,0,0
+1218,Friday (1995),Q673486,fails,,,0.76,88,United States of America,0,0
+1219,"Goofy Movie, A (1995)",Q869993,fails,,G,0.59,78,United States of America,0,0
+1220,Higher Learning (1995),Q1617908,passes,,,0.45,126,United States of America,0,0
+1221,When a Man Loves a Woman (1994),Q1928695,passes,,,0.7,120,United States of America,0,0
+1222,Judgment Night (1993),Q1710973,,,,0.35,110,United States of America,0,0
+1223,King of the Hill (1993),Q1630996,,,,0.91,103,United States of America,0,0
+1224,"Scout, The (1994)",Q785267,,,,0.22,98,United States of America,0,0
+1225,Angus (1995),Q329145,,,,0.65,87,United States of America|France|United Kingdom,0,0
+1226,Night Falls on Manhattan (1997),Q212333,,,,0.69,108,United States of America,0,0
+1227,"Awfully Big Adventure, An (1995)",Q2549305,,,,0.36,112,United Kingdom,0,0
+1228,Under Siege 2: Dark Territory (1995),Q1355072,,,,0.34,98,United States of America,0,0
+1229,Poison Ivy II (1995),Q2341665,passes,,,0.14,106,United States of America,0,0
+1230,Ready to Wear (Pret-A-Porter) (1994),Q911775,,,,0.24,127,United States of America|France,0,0
+1231,Marked for Death (1990),Q109110,,,,0.27,90,United States of America,0,0
+1232,Madonna: Truth or Dare (1991),Q187561,passes,,,0.87,122,United States of America,0,0
+1233,Nénette et Boni (1996),Q3347054,,,,0.85,103,France,0,0
+1234,Chairman of the Board (1998),Q5068089,,,,0.13,95,United States of America,0,0
+1235,"Big Bang Theory, The (1994)",Q3350745,,,,,,,0,0
+1236,"Other Voices, Other Rooms (1997)",Q646231,,,,,,United States of America,0,0
+1237,Twisted (1996),Q4415484,,,,,,United States of America,0,0
+1238,Full Speed (1996),Q30501932,,,,,,,0,0
+1239,Cutthroat Island (1995),Q1051496,,,,0.38,124,United States of America|Italy|France|Germany,0,0
+1240,Ghost in the Shell (Kokaku kidotai) (1995),Q1066948,fails,passes,,0.95,79,Japan|United Kingdom,0,0
+1241,"Van, The (1996)",Q1419676,,,,0.38,96,Italy|United Kingdom,0,0
+1242,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)",Q3213742,,,,,95,Italy|France,0,0
+1243,Night Flier (1997),Q2060440,passes,,,0.33,94,United States of America|Italy,0,0
+1244,Metro (1997),Q1858277,,,,0.17,112,United States of America,0,0
+1245,Gridlock'd (1997),Q951966,,,,0.88,87,United States of America,0,0
+1246,Bushwhacked (1995),Q5955773,,,,,,,0,0
+1247,Bad Girls (1994),Q798696,passes,,,0.13,96,United States of America,0,0
+1248,Blink (1994),Q2624390,,,,,,,0,0
+1249,For Love or Money (1993),Q947617,,,,0.37,91,United States of America,0,0
+1250,Best of the Best 3: No Turning Back (1995),Q830361,,,,,94,United States of America,0,0
+1251,A Chef in Love (1996),Q1444948,,,,0.64,100,Russia|France,0,1
+1252,"Contempt (Mépris, Le) (1963)",Q598109,fails,,,0.91,102,Italy|France,0,0
+1253,"Tie That Binds, The (1995)",Q740069,,,,0.08,92,United States of America,0,0
+1254,Gone Fishin' (1997),Q1192024,,,,0.04,90,United States of America,0,0
+1255,Broken English (1996),Q4973365,,,NC-17,0.82,,New Zealand,0,0
+1256,"Designated Mourner, The (1997)",Q7729824,,,,0.65,,United Kingdom,0,0
+1257,"Designated Mourner, The (1997)",Q7729824,,,,0.65,,United Kingdom,0,0
+1258,Trial and Error (1997),Q963283,,,,0.5,94,United States of America,0,0
+1259,Pie in the Sky (1995),Q7191339,,,,,,United States of America|Australia,0,0
+1260,Total Eclipse (1995),Q543462,fails,,,0.25,111,United States of America|Belgium|Italy|France|United Kingdom,0,0
+1261,"Run of the Country, The (1995)",Q7761835,,,,0.5,,United States of America,0,0
+1262,Walking and Talking (1996),Q324239,passes,,,0.88,90,United States of America|United Kingdom|Germany,0,0
+1263,Foxfire (1996),Q1440232,passes,,,0.27,98,United States of America,0,0
+1264,Nothing to Lose (1994),Q218605,,,,,,,0,1
+1265,Star Maps (1997),Q7600796,,,,0.35,86,United States of America,0,0
+1266,Bread and Chocolate (Pane e cioccolata) (1973),Q671116,,,,,115,Italy,0,0
+1267,Clockers (1995),Q2268296,,,,0.72,128,United States of America,0,0
+1268,Bitter Moon (1992),Q878964,passes,,,0.65,138,United States of America|France|United Kingdom,0,0
+1269,Love in the Afternoon (1957),Q630855,,,,0.85,130,United States of America,0,0
+1270,Life with Mikey (1993),Q839265,,,,0.25,91,United States of America,0,0
+1271,North (1994),Q1072666,,,,0.14,95,United States of America,0,0
+1272,Talking About Sex (1994),Q7776942,,,,,,,0,0
+1273,Color of Night (1994),Q1111228,passes,,,0.22,134,United States of America,0,0
+1274,Robocop 3 (1993),Q841233,passes,,PG-13,0.06,101,United States of America,0,0
+1275,Killer (Bulletproof Heart) (1994),Q1983074,,,,0.63,94,United States of America,0,0
+1276,Sunset Park (1996),Q3818309,,,,0.13,99,United States of America,0,0
+1277,Set It Off (1996),Q962544,passes,,,0.7,118,United States of America,0,0
+1278,Selena (1997),Q751130,passes,,,0.65,122,United States of America,0,0
+1279,Wild America (1997),Q221982,fails,,,0.27,102,United States of America,0,0
+1280,Gang Related (1997),Q2619792,,,,0.53,102,United States of America,0,0
+1281,Manny & Lo (1996),Q1516532,passes,,,0.62,85,United States of America,0,0
+1282,"Grass Harp, The (1995)",Q3989936,,,,0.5,107,United States of America,0,0
+1283,Out to Sea (1997),Q2030840,,,,0.36,109,United States of America,0,0
+1284,Before and After (1996),Q1178292,,,,0.32,103,United States of America,0,0
+1285,Princess Caraboo (1994),Q446186,,,,,,,0,0
+1286,Shall We Dance? (1937),Q1576105,fails,,,0.89,109,United States of America,0,0
+1287,Ed (1996),Q1134452,,,,0,94,United States of America,0,0
+1288,Denise Calls Up (1995),Q3784688,,,,0.77,80,United States of America,0,0
+1289,Jack and Sarah (1995),Q3805533,,,,0.74,110,France|United Kingdom,0,0
+1290,Country Life (1994),Q5177346,,,,,,United Kingdom,0,0
+1291,Celtic Pride (1996),Q1171263,,,,0.09,87,United States of America,0,0
+1292,"Simple Wish, A (1997)",Q739806,passes,,,0.25,89,United States of America,0,0
+1293,Star Kid (1997),Q7600766,,,,0.43,101,United States of America,0,0
+1294,Ayn Rand: A Sense of Life (1997),Q4831496,,,,0.5,145,United States of America,0,1
+1295,Kicked in the Head (1997),Q22000555,,,,0.2,,United States of America,0,0
+1296,Indian Summer (1996),Q6021690,,,,0.83,98,United Kingdom,0,0
+1297,Love Affair (1994),Q2070564,,,,0.29,108,United States of America,0,0
+1298,"Band Wagon, The (1953)",Q1508130,fails,,,1,113,United States of America,0,3
+1299,Penny Serenade (1941),Q419838,,,,0.94,119,United States of America,0,1
+1300,'Til There Was You (1997),Q232106,,,,0.05,109,United States of America,0,0
+1301,Stripes (1981),Q174153,fails,,,0.88,118,United States of America,0,0
+1302,Late Bloomers (1996),Q38805245,,,,,,,0,0
+1303,"Getaway, The (1994)",Q1519938,,,,0.3,111,United States of America,0,0
+1304,New York Cop (1996),Q949311,,,,,,United States of America,0,0
+1305,National Lampoon's Senior Trip (1995),Q604821,,,,0,91,United States of America,0,0
+1306,Delta of Venus (1994),Q4157281,,,NC-17,0,102,United States of America|Czech Republic,0,0
+1307,Carmen Miranda: Bananas Is My Business (1994),Q5043525,,,,0.8,91,United States of America|United Kingdom|Brazil,0,0
+1308,Babyfever (1994),Q104875411,,,,0.36,,United States of America,0,0
+1309,"Very Natural Thing, A (1974)",Q4660419,,,,,,United States of America,0,0
+1310,"Walk in the Sun, A (1945)",Q387832,,,,1,117,United States of America,0,0
+1311,Waiting to Exhale (1995),Q736254,fails,,,0.6,127,United States of America,0,0
+1312,"Pompatus of Love, The (1996)",Q7227450,,,,,,,0,0
+1313,Palmetto (1998),Q414681,,,,,,,0,0
+1314,Surviving the Game (1994),Q1461570,,,,0.24,92,United States of America,0,0
+1315,Inventing the Abbotts (1997),Q766847,,,,0.31,114,United States of America,0,0
+1316,"Horse Whisperer, The (1998)",Q1127424,,,,0.74,170,United States of America,0,0
+1317,"Journey of August King, The (1995)",Q2554115,,,,0.57,92,United States of America,0,0
+1318,Catwalk (1995),Q2382701,,,,,,United States of America,0,0
+1319,"Neon Bible, The (1995)",Q7753403,,,,,,United States of America,0,0
+1320,Homage (1995),Q514694,,,,,,United Kingdom,0,0
+1321,Open Season (1996),Q1022844,,,,,,,0,0
+1322,Metisse (Café au Lait) (1993),Q3333749,,,,0.71,94,France,0,0
+1323,"Wooden Man's Bride, The (Wu Kui) (1994)",Q7775725,,,,,,People's Republic of China,0,0
+1324,Loaded (1994),Q413088,,,,,,,0,0
+1325,August (1996),Q2070,,,,,,,0,0
+1326,Boys (1996),Q1138551,,,,,,,0,0
+1327,Captives (1994),Q4101697,,,,,100,United Kingdom,0,0
+1328,Of Love and Shadows (1994),Q3415210,,,,0.2,105,United States of America|Argentina,0,0
+1329,"Low Life, The (1994)",Q1421228,fails,,,0.5,118,United States of America,0,0
+1330,An Unforgettable Summer (1994),Q979083,,,,,82,France|Romania,0,0
+1331,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",Q212944,,,,,,,0,0
+1332,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),Q6945858,,,,0.83,90,France,0,0
+1333,Midnight Dancers (Sibak) (1994),Q7506919,,,,,100,Philippines,0,0
+1334,Somebody to Love (1994),Q3489796,,,,,102,United States of America,0,0
+1335,American Buffalo (1996),Q463633,,,,0.74,88,United States of America|United Kingdom,0,0
+1336,Kazaam (1996),Q3137753,,,,0.05,93,United States of America,0,0
+1337,Larger Than Life (1996),Q763311,,,,,,United States of America,0,0
+1338,Two Deaths (1995),Q7858914,,,,0.38,102,United Kingdom,0,0
+1339,Stefano Quantestorie (1993),Q3972667,,,,,92,Italy,0,0
+1340,"Crude Oasis, The (1995)",Q42947701,,,,,,United States of America,0,0
+1341,Hedd Wyn (1992),Q1388537,,,,,,,0,0
+1342,"Convent, The (Convento, O) (1995)",Q2421084,,,,0.38,92,Portugal|France,0,0
+1343,Lotto Land (1995),Q38463332,,,,,,United States of America,0,0
+1344,"Story of Xinghua, The (1993)",Q377593,,,,,,,0,0
+1346,Dingo (1992),Q38584,,,,,,,0,0
+1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)",Q2480468,,,,,108,Japan,0,0
+1348,Every Other Weekend (1990),Q5417570,,,,,,United States of America,0,0
+1349,Mille bolle blu (1993),Q3857956,,,,,85,Italy,0,0
+1350,Crows and Sparrows (1949),Q5189588,,,,,113,People's Republic of China,0,0
+1351,Lover's Knot (1996),Q7847570,,,,,,,0,0
+1352,Shadow of Angels (Schatten der Engel) (1976),Q3204512,,,,,101,Switzerland|Germany,0,0
+1353,1-900 (1994),Q110880261,,,,,,,0,0
+1354,Venice/Venice (1992),Q641,,,,,,,0,0
+1355,Infinity (1996),Q205,,,,,,,0,0
+1356,Ed's Next Move (1996),Q5334453,,,,0.8,,United States of America,0,0
+1357,For the Moment (1994),Q5467111,,,,,120,Canada,0,0
+1358,The Deadly Cure (1996),Q28404635,,,,,,,0,0
+1359,Boys in Venice (1996),Q9368394,,,,,,,0,0
+1360,"Sexual Life of the Belgians, The (1994)",Q926885,,,,,90,Belgium,0,0
+1361,"Search for One-eye Jimmy, The (1996)",Q3612320,,,,,,United States of America,0,0
+1362,American Strays (1996),Q4401429,,,,,97,United States of America,0,0
+1363,"Leopard Son, The (1996)",Q1281022,,,,,,,0,0
+1364,Bird of Prey (1996),Q833233,,,,,,,0,0
+1365,Johnny 100 Pesos (1993),Q5933802,,,,,90,Mexico|Chile,0,0
+1366,JLG/JLG - autoportrait de décembre (1994),Q53001,,,,,,,1,0
+1367,Faust (1994),Q2593047,,,,0.73,97,France|United Kingdom|Germany|Czech Republic,0,0
+1368,Mina Tannenbaum (1994),Q3314697,passes,,,,128,Belgium|Netherlands|France,0,0
+1369,"Forbidden Christ, The (Cristo proibito, Il) (1950)",Q1199761,,,,,110,Italy,0,0
+1370,I Can't Sleep (J'ai pas sommeil) (1994),Q3156595,passes,,,0.67,110,Switzerland|France,0,0
+1371,"Machine, The (1994)",Q72092,,,,,,United States of America,0,0
+1372,"Stranger, The (1994)",Q166511,,,,,,,0,0
+1373,Good Morning (1971),Q5582793,,,,,,,0,0
+1374,Falling in Love Again (1980),Q3064787,,,,,103,United States of America,0,0
+1375,"Cement Garden, The (1993)",Q1198186,,,,,,United Kingdom,0,0
+1376,Meet Wally Sparks (1997),Q10328192,,,,0.13,105,United States of America,0,0
+1377,Hotel de Love (1996),Q5912157,,,,0.22,95,Australia,0,0
+1378,Rhyme & Reason (1997),Q7321634,,,,,,,0,0
+1379,Love and Other Catastrophes (1996),Q6691661,passes,,,0.47,76,Australia,0,0
+1380,Hollow Reed (1996),Q784476,,,,0.83,,Spain|United Kingdom|Germany,0,0
+1381,Losing Chase (1996),Q6683625,,,,,93,United States of America,0,0
+1382,"Bonheur, Le (1965)",Q1168501,passes,fails,,,80,France,0,0
+1383,"Second Jungle Book: Mowgli & Baloo, The (1997)",Q3989175,,,,,88,United States of America,0,0
+1384,Squeeze (1996),Q591279,,,,,,United Kingdom,0,0
+1385,Roseanna's Grave (For Roseanna) (1997),Q1358289,,,,0.38,98,United States of America|Italy,0,0
+1386,Tetsuo II: Body Hammer (1992),Q2057161,,,,,83,Japan,0,0
+1387,Fall (1997),Q1394424,,,,0,93,United States of America,0,0
+1388,Gabbeh (1996),Q3288099,,,,0.9,75,France|Iran,0,0
+1389,Mondo (1996),Q1474387,,,,,,,0,0
+1390,"Innocent Sleep, The (1995)",Q7742110,,,,,110,United Kingdom,0,0
+1391,For Ever Mozart (1996),Q4305151,,,,,84,France,0,0
+1392,"Locusts, The (1997)",Q83931,,,,,,,0,0
+1393,Stag (1997),Q7596737,,,,0.4,,United States of America,0,0
+1394,Swept from the Sea (1997),Q481851,,,,0.28,109,United States of America,0,0
+1395,Hurricane Streets (1998),Q5948336,,,,0.88,86,United States of America,0,0
+1396,Stonewall (1995),Q2738970,,,,0.63,99,United States of America|United Kingdom,0,0
+1397,Of Human Bondage (1934),Q1164789,fails,fails,,0.86,83,United States of America,0,1
+1398,Anna (1996),Q4767138,,,,,,Philippines,0,0
+1399,Stranger in the House (1997),Q7621554,,,,,,,0,0
+1400,Picture Bride (1995),Q837939,passes,,,0.82,95,Japan|United States of America,0,0
+1401,M. Butterfly (1993),Q1513195,,,,0.43,101,United States of America,0,0
+1402,"Ciao, Professore! (1993)",Q3801259,,,,0.57,95,Italy,0,0
+1403,Caro Diario (Dear Diary) (1994),Q949784,,fails,,0.68,100,Italy|France,0,0
+1404,Withnail and I (1987),Q1756560,fails,,,0.94,107,United Kingdom,0,0
+1405,Boy's Life 2 (1997),Q4655595,,,,,,United States of America,0,0
+1406,When Night Is Falling (1995),Q540361,passes,,,0.5,94,Canada,0,0
+1407,"Specialist, The (1994)",Q471423,fails,,,0.07,105,United States of America,0,0
+1408,Gordy (1995),Q5257672,,,,,,,0,0
+1409,"Swan Princess, The (1994)",Q22909197,,,,,,United States of America,0,0
+1410,Harlem (1993),Q189074,,,,,,,0,0
+1411,Barbarella (1968),Q41132,passes,,,0.74,98,Italy|France,0,0
+1412,Land Before Time III: The Time of the Great Giving (1995) (V),Q2548919,,,,0.6,71,United States of America,0,0
+1413,Street Fighter (1994),Q1138659,passes,,PG-13,0.11,100,United States of America,0,0
+1414,Coldblooded (1995),Q1107739,,,,,92,United States of America,0,0
+1415,"Next Karate Kid, The (1994)",Q289127,,,,0.07,103,United States of America,0,0
+1416,No Escape (1994),Q1421228,fails,,,0.5,118,United States of America,0,0
+1417,"Turning, The (1992)",Q7770749,,,,,,United States of America,0,0
+1418,"Joy Luck Club, The (1993)",Q2296376,passes,,,0.86,139,United States of America,0,0
+1419,Highlander III: The Sorcerer (1994),Q994209,,,,0.05,106,Canada|France|United Kingdom,0,0
+1420,Gilligan's Island: The Movie (1998),Q5562346,,,,,,,0,0
+1421,My Crazy Life (Mi vida loca) (1993),Q1962809,passes,,,0.73,92,United States of America|United Kingdom,0,0
+1422,Suture (1993),Q17170,,,,,,,0,0
+1423,"Walking Dead, The (1995)",Q232737,,,,,,United States of America,0,0
+1424,I Like It Like That (1994),Q1273799,passes,,,0.82,102,United States of America,0,0
+1425,I'll Do Anything (1994),Q853425,,,,0.61,115,United States of America,0,0
+1426,Grace of My Heart (1996),Q584662,passes,,,0.76,116,United States of America,0,0
+1427,Drunks (1995),Q3040133,,,,0.63,90,United States of America,0,0
+1428,SubUrbia (1997),Q2361432,,,,0.65,121,United States of America,0,0
+1429,Sliding Doors (1998),Q470624,passes,passes,,0.65,98,United States of America|United Kingdom,0,0
+1430,Ill Gotten Gains (1997),Q30641448,,,,,,,0,0
+1431,Legal Deceit (1997),Q7827279,,,,,,,0,0
+1432,"Mighty, The (1998)",Q525128,,,,0.55,114,United States of America,0,1
+1433,Men of Means (1998),Q319799,,,,,,,0,0
+1434,Shooting Fish (1997),Q491185,,,,0.57,,United Kingdom,0,0
+1435,"Steal Big, Steal Little (1995)",Q7605252,,,,0.15,130,United States of America,0,0
+1436,Mr. Jones (1993),Q2525108,,,,0.46,114,United States of America,0,0
+1437,House Party 3 (1994),Q12124897,,,,0,100,United States of America,0,0
+1438,Panther (1995),Q1172444,,,,0.27,123,United States of America,0,0
+1439,Jason's Lyric (1994),Q1684012,,,,0.61,115,United States of America,0,0
+1440,Above the Rim (1994),Q2128630,,,,0.53,96,United States of America,0,0
+1441,Moonlight and Valentino (1995),Q509323,,,,0.15,105,United States of America|United Kingdom,0,0
+1442,"Scarlet Letter, The (1995)",Q617942,,,,0.13,135,United States of America,0,0
+1443,8 Seconds (1994),Q580917,,,,0.31,105,United States of America,0,0
+1444,That Darn Cat! (1965),Q1102396,passes,,,0.94,116,United States of America,0,0
+1445,Ladybird Ladybird (1994),Q2549142,,passes,,0.75,101,United Kingdom,0,0
+1446,"Bye Bye, Love (1995)",Q1018481,,,,0.19,102,United States of America,0,0
+1447,Century (1993),Q10681317,,,,,,,0,0
+1448,My Favorite Season (1993),Q385339,,,,0.93,122,France,0,0
+1449,Pather Panchali (1955),Q622380,passes,,,0.97,120,India,0,0
+1450,Golden Earrings (1947),Q2663133,,,,,95,United States of America,0,0
+1451,Foreign Correspondent (1940),Q848388,fails,,,0.95,115,United States of America,0,6
+1452,Lady of Burlesque (1943),Q3100955,,,,,91,United States of America,0,1
+1453,Angel on My Shoulder (1946),Q1770219,,,,,100,United States of America,0,0
+1454,Angel and the Badman (1947),Q645771,,,,0.71,100,United States of America,0,0
+1455,"Outlaw, The (1943)",Q1521254,,,,0.73,118,United States of America,0,0
+1456,Beat the Devil (1954),Q1470370,,,,0.71,89,United States of America|Italy|United Kingdom,0,0
+1457,Love Is All There Is (1996),Q1769998,,,,,101,United States of America,0,0
+1458,"Damsel in Distress, A (1937)",Q1304532,,,,0.71,101,United States of America,0,1
+1459,Madame Butterfly (1995),Q3275248,,,,0.7,,France|Germany,0,0
+1460,Sleepover (1995),Q6755426,,,,,,,0,0
+1461,Here Comes Cookie (1935),Q19427409,,,,,65,United States of America,0,0
+1462,"Thieves (Voleurs, Les) (1996)",Q1220064,,,,0.82,117,France,0,0
+1463,"Boys, Les (1997)",Q3231134,,,,,107,Canada,0,0
+1464,"Stars Fell on Henrietta, The (1995)",Q340037,,,,0.5,109,United States of America,0,0
+1465,Last Summer in the Hamptons (1995),Q6494683,,,,0.64,108,United States of America,0,0
+1466,Margaret's Museum (1995),Q1167668,,,,0.67,114,Canada|United Kingdom,0,0
+1467,"Saint of Fort Washington, The (1993)",Q1342027,,,,0.8,108,United States of America,0,0
+1468,"Cure, The (1995)",Q2336805,fails,,,0.45,99,United States of America,0,0
+1469,Tom and Huck (1995),Q1616185,,,,0.25,88,United States of America,0,0
+1470,Gumby: The Movie (1995),Q12124677,,,,0.2,90,United States of America,0,0
+1471,Hideaway (1995),Q2364503,,,,0.2,106,United States of America,0,0
+1472,"Visitors, The (Visiteurs, Les) (1993)",Q838013,,,,0.31,107,France,0,0
+1473,"Little Princess, The (1939)",Q151923,,,,0.88,91,United States of America,0,0
+1474,Nina Takes a Lover (1994),Q6043145,,,,0.5,100,United States of America,0,0
+1475,Bhaji on the Beach (1993),Q2716876,passes,,,0.87,101,United Kingdom,0,0
+1476,Raw Deal (1948),Q844732,,,,1,77,United States of America,0,0
+1477,Nightwatch (1997),Q1265650,,,,0.27,105,United States of America,0,0
+1478,Dead Presidents (1995),Q1180839,passes,,,0.45,119,United States of America,0,0
+1479,Reckless (1995),Q1962573,,,,0.14,110,United States of America,0,0
+1480,Herbie Rides Again (1974),Q1609444,,,,0.8,88,United States of America,0,0
+1481,S.F.W. (1994),Q227540,,,,0.12,91,United States of America,0,0
+1482,"Gate of Heavenly Peace, The (1995)",Q7735912,,,,,,United States of America,0,0
+1483,"Man in the Iron Mask, The (1998)",Q1123463,fails,,,0.32,133,United States of America|France|United Kingdom,0,0
+1484,"Jerky Boys, The (1994)",Q2412186,,,,,,,0,0
+1485,"Colonel Chabert, Le (1994)",Q1932742,,,,,,France,0,0
+1486,Girl in the Cadillac (1995),Q4156460,,,,,89,United States of America,0,0
+1487,Even Cowgirls Get the Blues (1993),Q1422017,passes,,,0.17,92,United States of America,0,0
+1488,Germinal (1993),Q1479633,,,,0.75,158,Italy|France,0,0
+1489,Chasers (1994),Q1068029,,,,0.33,98,United States of America,0,0
+1490,Fausto (1993),Q37085453,,,,,,,0,0
+1491,Tough and Deadly (1995),Q35358,,,,,,,0,0
+1492,Window to Paris (1994),Q3469484,,,,,90,France|Russia,0,0
+1493,"Modern Affair, A (1995)",Q173457,,,,,,,0,0
+1494,"Mostro, Il (1994)",Q19352,,,,0.4,112,Italy|France,0,0
+1495,Flirt (1995),Q3269372,,,,0.8,85,Japan|United States of America|Germany,0,0
+1496,Carpool (1996),Q1924207,,,,0.13,89,United States of America,0,0
+1497,"Line King: Al Hirschfeld, The (1996)",Q7747408,,,,,86,United States of America,0,1
+1498,Farmer & Chase (1995),Q524629,,,,,,,0,0
+1499,Grosse Fatigue (1994),Q1749100,,,,0.5,92,France,0,0
+1500,Santa with Muscles (1996),Q1631700,,,,,97,United States of America,0,0
+1501,Prisoner of the Mountains (Kavkazsky Plennik) (1996),Q18752855,,,,,,,0,0
+1502,Naked in New York (1994),Q12126445,,,,0.42,98,United States of America,0,0
+1503,Gold Diggers: The Secret of Bear Mountain (1995),Q1422552,passes,,,0.56,90,Canada|United States of America,0,0
+1504,"Bewegte Mann, Der (1994)",Q491386,,,,0.5,90,Germany,0,0
+1505,Killer: A Journal of Murder (1995),Q826243,,,,,92,United States of America,0,0
+1506,Nelly & Monsieur Arnaud (1995),Q1930843,,,,0.96,103,Italy|France,0,0
+1507,Three Lives and Only One Death (1996),Q1133651,fails,,,0.7,123,Portugal|France,0,0
+1508,"Babysitter, The (1995)",Q385951,,,,0.17,90,United States of America,0,0
+1509,Getting Even with Dad (1994),Q290730,,,,0.03,95,United States of America,0,0
+1510,Mad Dog Time (1996),Q2016370,,,,0.17,97,United States of America,0,0
+1511,Children of the Revolution (1996),Q1977021,,,,0.8,101,Australia,0,0
+1512,"World of Apu, The (Apur Sansar) (1959)",Q622376,fails,,,0.96,101,India,0,0
+1513,Sprung (1997),Q264960,,,,,,,0,0
+1514,Dream With the Fishes (1997),Q5306524,,,,0.6,97,United States of America,0,0
+1515,Wings of Courage (1995),Q3120510,,,,,50,United States of America|France,0,0
+1516,"Wedding Gift, The (1994)",Q49836,,,,,,,0,0
+1517,Race the Sun (1996),Q746538,,,,0.22,96,United States of America,0,0
+1518,Losing Isaiah (1995),Q1217852,,,,0.45,102,United States of America,0,0
+1519,New Jersey Drive (1995),Q81597,,,,0.62,98,United States of America,0,0
+1520,"Fear, The (1995)",Q3518732,,,,,98,United States of America,0,0
+1521,Mr. Wonderful (1993),Q538909,,,,0.52,95,United States of America,0,0
+1522,Trial by Jury (1994),Q2151912,,,,0.08,107,United States of America,0,0
+1523,"Good Man in Africa, A (1994)",Q300423,,,,0.1,92,United States of America|South Africa,0,0
+1524,Kaspar Hauser (1993),Q44600,,,,,,,0,0
+1525,"Object of My Affection, The (1998)",Q1545178,,,,0.52,107,United States of America,0,0
+1526,Witness (1985),Q488041,passes,,R,0.93,112,United States of America,2,8
+1527,Senseless (1998),Q1785626,,,,0.06,93,United States of America,0,0
+1528,Nowhere (1997),Q629570,,,,0.27,82,United States of America|France,0,0
+1529,Underground (1995),Q156516,fails,,,0.86,163,Hungary|France|Germany|Czech Republic|Bulgaria|Yugoslavia|Federal Republic of Yugoslavia,0,0
+1530,Jefferson in Paris (1995),Q1643330,,,,0.31,139,United States of America|France,0,0
+1531,Far From Home: The Adventures of Yellow Dog (1995),Q1962691,,,,0.57,81,United States of America,0,0
+1532,Foreign Student (1994),Q20708618,,,,,,United States of America,0,0
+1533,I Don't Want to Talk About It (De eso no se habla) (1993),Q2364730,,,,,106,Argentina,0,0
+1534,Twin Town (1997),Q3400744,,,,0.46,99,United Kingdom,0,0
+1535,"Enfer, L' (1994)",Q1213581,,,,1,102,France,0,0
+1536,Aiqing wansui (1994),Q711684,fails,,,0.83,118,Taiwan,0,0
+1537,Cosi (1996),Q5173917,,,,,,Australia,0,0
+1538,All Over Me (1997),Q2713475,,,,0.86,90,United States of America,0,0
+1539,Being Human (1993),Q181784,,,,,,,0,0
+1540,"Amazing Panda Adventure, The (1995)",Q2341110,,,,0.2,84,United States of America,0,0
+1541,"Beans of Egypt, Maine, The (1994)",Q2081311,,,,,,United States of America,0,0
+1542,"Scarlet Letter, The (1926)",Q907568,,,,,,United States of America,0,0
+1543,Johns (1996),Q1702447,,,,,,,0,0
+1544,It Takes Two (1995),Q1308622,fails,,,0.08,97,United States of America,0,0
+1545,Frankie Starlight (1995),Q5491064,,,,0.71,101,Republic of Ireland|United States of America|France|United Kingdom,0,0
+1546,Shadows (Cienie) (1988),Q6612833,,,,,,,0,0
+1547,"Show, The (1995)",Q7764003,,,,0.8,,United States of America,0,0
+1548,The Courtyard (1995),Q309250,,,,,,,0,0
+1549,Dream Man (1995),Q1421355,,,,0.81,105,United States of America,0,3
+1550,Destiny Turns on the Radio (1995),Q2546056,,,,0.17,102,United States of America,0,0
+1551,"Glass Shield, The (1994)",Q4441559,,,,0.65,,United States of America,0,0
+1552,"Hunted, The (1995)",Q2736281,,,,0.08,106,United States of America,0,0
+1553,"Underneath, The (1995)",Q7883725,,,,,,,0,0
+1554,Safe Passage (1994),Q1475022,,,,0.54,94,United States of America,0,0
+1555,"Secret Adventures of Tom Thumb, The (1993)",Q4450020,,,,0.8,61,United Kingdom,0,0
+1556,Condition Red (1995),Q3686408,,,,,,,0,0
+1557,Yankee Zulu (1994),Q253260,,,,,100,South Africa,0,0
+1558,Aparajito (1956),Q622382,passes,,,0.95,105,India,0,0
+1559,Hostile Intentions (1994),Q24963638,,,,,,,0,0
+1560,Clean Slate (Coup de Torchon) (1981),Q977950,,,,0.83,128,France,0,1
+1561,Tigrero: A Film That Was Never Made (1994),Q520747,,,,,,,0,0
+1562,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",Q1169110,,,,,110,France,0,0
+1563,"Promise, The (Versprechen, Das) (1994)",Q65511,,,,,,,0,0
+1564,To Cross the Rubicon (1991),Q172572,,,,,,,0,0
+1565,Daens (1992),Q1675401,,,,,138,Belgium|Netherlands|France,0,1
+1566,"Man from Down Under, The (1943)",Q7750028,,,,,103,United States of America,0,0
+1567,Careful (1992),Q2404081,,,,0.83,100,Canada,0,0
+1568,Vermont Is For Lovers (1992),Q7921729,,,,,,United States of America,0,0
+1570,Quartier Mozart (1992),Q327726,,,,,,,0,0
+1571,Touki Bouki (Journey of the Hyena) (1973),Q3310901,,,,0.86,85,Senegal,0,0
+1572,Wend Kuuni (God's Gift) (1982),Q3222399,,,,,75,Burkina Faso,0,0
+1573,Spirits of the Dead (Tre passi nel delirio) (1968),Q18415,,,,0.86,121,Italy|France,0,0
+1574,Pharaoh's Army (1995),Q7180678,,,,,,United States of America,0,0
+1575,"I, Worst of All (Yo, la peor de todas) (1990)",Q6170075,passes,,,,100,Argentina,0,0
+1576,"Hungarian Fairy Tale, A (1987)",Q4657454,,,,,97,Hungary,0,0
+1577,"Death in the Garden (Mort en ce jardin, La) (1956)",Q686395,,,,0.92,97,Mexico|France,0,0
+1578,"Collectionneuse, La (1967)",Q1215948,fails,,,0.8,83,France,0,0
+1579,Baton Rouge (1988),Q4079445,,,,,81,Spain,0,0
+1580,Liebelei (1933),Q375306,,,,,94,France|Germany,0,0
+1581,"Woman in Question, The (1950)",Q7775538,,,,,88,United Kingdom,0,0
+1582,T-Men (1947),Q654474,,,,,92,United States of America,0,1
+1583,"Invitation, The (Zaproszenie) (1986)",Q437696,,,,,,,0,0
+1584,"Symphonie pastorale, La (1946)",Q1215348,,,,,,France,0,0
+1585,American Dream (1990),Q463994,,,,1,98,United States of America|United Kingdom,1,0
+1586,Lashou shentan (1992),Q573823,fails,,,0.94,123,Hong Kong,0,0
+1587,Terror in a Texas Town (1958),Q3518734,,,,,80,United States of America,0,0
+1588,Salut cousin! (1996),Q3470289,,,,,98,Belgium|Luxembourg|France|Algeria,0,0
+1589,Schizopolis (1996),Q2082586,,,,0.63,96,United States of America,0,0
+1590,"To Have, or Not (1995)",Q538390,,,,,,United States of America,0,0
+1591,Duoluo tianshi (1995),Q1353408,fails,,,0.95,91,Hong Kong,0,0
+1592,"Magic Hour, The (1998)",Q7749435,,,,,,United States of America,0,0
+1593,Death in Brunswick (1991),Q4424397,,,,0.67,,Australia,0,0
+1594,Everest (1998),Q1749553,,,,0.93,45,United States of America,0,0
+1595,Shopping (1994),Q250995,,,,,105,Japan|United Kingdom,0,0
+1596,Nemesis 2: Nebula (1995),Q598804,,,,,82,United States of America|Denmark,0,0
+1597,Romper Stomper (1992),Q909098,,,,0.79,89,Australia,0,0
+1598,City of Industry (1997),Q5001422,,,,,,,0,0
+1599,Someone Else's America (1995),Q7219297,,,,,,Greece|France|United Kingdom|Germany,0,0
+1600,Guantanamera (1994),Q4999843,,,,,,,0,0
+1601,Office Killer (1997),Q370951,,,,0.12,80,United States of America,0,0
+1602,"Price Above Rubies, A (1998)",Q2896442,,,,0.57,117,United States of America|United Kingdom,0,0
+1603,Angela (1995),Q4762351,,,,,99,United States of America,0,0
+1604,He Walked by Night (1948),Q2780022,,,,,79,United States of America,0,0
+1605,Love Serenade (1996),Q3491414,,,,0.9,101,Australia,0,0
+1606,Deceiver (1997),Q1524544,,,,0.48,101,United States of America,0,0
+1607,Hurricane Streets (1998),Q5948336,,,,0.88,86,United States of America,0,0
+1608,Buddy (1997),Q4984790,,,,0.25,84,United States of America,0,0
+1609,B*A*P*S (1997),Q1749826,,,,,,,0,0
+1610,"Truth or Consequences, N.M. (1997)",Q2421666,,,,0.38,106,United States of America,0,0
+1611,Intimate Relations (1996),Q6057640,,,,0.14,105,Canada|United Kingdom,0,0
+1612,"Leading Man, The (1996)",Q448146,,,,,100,United Kingdom,0,0
+1613,Tokyo Fist (1995),Q3530527,,,,,87,Japan,0,0
+1614,"Reluctant Debutante, The (1958)",Q2326899,,,,,94,United States of America,0,0
+1615,Warriors of Virtue (1997),Q3233113,,,,0.18,103,United States of America|People's Republic of China,0,0
+1616,Desert Winds (1995),Q1330018,,,,,,,0,0
+1617,Hugo Pool (1997),Q1921451,,,,0.31,92,United States of America,0,0
+1618,King of New York (1990),Q775586,,,,0.71,106,United States of America|Italy,0,0
+1619,All Things Fair (1996),Q1675604,,,,,130,Sweden,0,1
+1620,"Sixth Man, The (1997)",Q844517,,,,,,,0,0
+1621,Butterfly Kiss (1995),Q1018100,passes,passes,,0.77,88,United Kingdom,0,0
+1622,"Paris, France (1993)",Q90,,,,,,,0,0
+1623,"Cérémonie, La (1995)",Q858216,,passes,,0.93,111,France|Germany,0,0
+1624,Hush (1998),Q162759,,,,0.12,92,United States of America,0,0
+1625,Nightwatch (1997),Q1265650,,,,0.27,105,United States of America,0,0
+1626,Nobody Loves Me (Keiner liebt mich) (1994),Q77734,,,,,,,0,0
+1627,"Wife, The (1995)",Q7774795,,,,,,United States of America,0,0
+1628,Lamerica (1994),Q1738422,,fails,,0.91,116,Italy|France,0,0
+1629,Nico Icon (1995),Q44634,,,,,,,0,0
+1630,"Silence of the Palace, The (Saimt el Qusur) (1994)",Q2746780,,,,,127,France|Tunisia,0,0
+1631,"Slingshot, The (1993)",Q4395391,,,,0.89,102,Sweden,0,0
+1632,Land and Freedom (Tierra y libertad) (1995),Q643805,fails,fails,,0.79,109,Spain|Italy|France|United Kingdom|Germany,0,0
+1633,Á köldum klaka (Cold Fever) (1994),Q1107800,,fails,,0.95,85,Iceland,0,0
+1635,Two Friends (1986) ,Q232181,,,,,78,Australia,0,0
+1636,Brothers in Trouble (1995),Q5496715,,,,,,,0,0
+1637,Girls Town (1996),Q5564667,passes,,,0.88,90,United States of America,0,0
+1638,Normal Life (1996),Q820623,,,,0.7,98,United States of America,0,0
+1639,Bitter Sugar (Azucar Amargo) (1996),Q4833209,,,,,,,0,0
+1640,"Eighth Day, The (1996)",Q451573,,,,0.67,115,Belgium|France|United Kingdom,0,0
+1641,Dadetown (1995),Q6598587,,,,,,,0,0
+1642,Some Mother's Son (1996),Q1787836,,passes,,0.69,112,Republic of Ireland|United States of America,0,0
+1643,Angel Baby (1995),Q4762078,,,,0.92,105,Australia,0,0
+1644,Sudden Manhattan (1996),Q19868286,,,,0.67,80,United States of America,0,0
+1645,"Butcher Boy, The (1998)",Q14899273,,fails,R,0.77,110,Republic of Ireland|United States of America,0,0
+1646,Men With Guns (1997),Q3616804,,,,0.89,126,United States of America,0,0
+1647,Hana-bi (1997),Q1125897,fails,fails,,0.96,103,Japan,0,0
+1648,"Niagara, Niagara (1997)",Q34221,,,,,,,0,0
+1649,"Big One, The (1997)",Q1198825,,,,0.92,95,United States of America,0,0
+1650,"Butcher Boy, The (1998)",Q14899273,,fails,R,0.77,110,Republic of Ireland|United States of America,0,0
+1651,"Spanish Prisoner, The (1997)",Q163253,,,,0.89,110,United States of America,0,0
+1652,Temptress Moon (Feng Yue) (1996),Q734186,,,,0.62,130,People's Republic of China,0,0
+1653,Entertaining Angels: The Dorothy Day Story (1996),Q5380432,passes,,,0.5,135,United States of America,0,0
+1654,Chairman of the Board (1998),Q5068089,,,,0.13,95,United States of America,0,0
+1655,"Favor, The (1994)",Q1263003,,,,0.27,90,United States of America,0,0
+1656,Little City (1998),Q48674014,,,,0.14,98,Canada,0,0
+1657,Target (1995),Q230479,,,,,,,0,0
+1658,"Substance of Fire, The (1996)",Q1670780,,,,0.6,97,United States of America,0,0
+1659,Getting Away With Murder (1996),Q2048827,,,,0,91,United States of America|United Kingdom,0,0
+1660,Small Faces (1995),Q222628,,,,,,United Kingdom,0,0
+1661,"New Age, The (1994)",Q183308,,,,,,,0,0
+1662,Rough Magic (1995),Q1243183,,,,0.14,104,United States of America|France|United Kingdom,0,0
+1663,Nothing Personal (1995),Q16999374,,,,,85,Republic of Ireland,0,0
+1664,8 Heads in a Duffel Bag (1997),Q2478733,,,,0.11,95,United States of America|United Kingdom,0,0
+1665,"Brother's Kiss, A (1997)",Q38463225,,,,1,92,United States of America,0,0
+1666,Ripe (1996),Q1835663,,,,,,,0,0
+1667,"Next Step, The (1995)",Q658216,,,,,22,United States of America,0,0
+1668,Wedding Bell Blues (1996),Q463482,,,,,,,0,0
+1669,MURDER and murder (1996),Q132821,,,,,,,0,0
+1670,Tainted (1998),Q3134839,,,,,,,0,0
+1671,"Further Gesture, A (1996)",Q1703272,,,,,,,0,0
+1672,Kika (1993),Q1472478,passes,,,0.6,110,Spain|France,0,0
+1673,Mirage (1995),Q200038,,,,,,,0,0
+1674,Mamma Roma (1962),Q641668,,,,0.94,105,Italy,0,0
+1675,"Sunchaser, The (1996)",Q339388,passes,fails,,0.17,127,United States of America,0,0
+1676,"War at Home, The (1996)",Q1570605,,,,0.6,119,United States of America,0,0
+1677,Sweet Nothing (1995),Q7655433,,,,0.36,,United States of America,0,0
+1678,Mat' i syn (1997),Q2290357,,,,0.85,73,Russia|Germany,0,0
+1679,B. Monkey (1998),Q795223,,,,0.63,92,United Kingdom,0,0
+1680,Sliding Doors (1998),Q470624,passes,passes,,0.65,98,United States of America|United Kingdom,0,0
+1681,You So Crazy (1994),Q8057517,,,,0.5,,United States of America,0,0
+1682,Scream of Stone (Schrei aus Stein) (1991),Q2305376,,,,,106,Italy|France|Germany,0,0
