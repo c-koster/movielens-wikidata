@@ -96,12 +96,12 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 95,Aladdin (1992),Q215518,fails,fails,G,0.95,91,United States of America,1,3
 96,Terminator 2: Judgment Day (1991),Q170564,passes,passes,R,0.92,137,United States of America,4,6
 97,Dances with Wolves (1990),Q20456,fails,,,0.87,236,United States of America,7,12
-98,"Silence of the Lambs, The (1991)",Q133654,passes,passes,R,0.95,118,United States of America,5,7
+98,"Silence of the Lambs, The (1991)",Q399727,,,,,,,0,0
 99,Snow White and the Seven Dwarfs (1937),Q134430,passes,passes,,0.98,83,United States of America,0,1
 100,Fargo (1996),Q222720,passes,passes,R,0.94,98,United States of America|United Kingdom,2,7
 101,Heavy Metal (1981),Q2733646,,,,,,,0,0
 102,"Aristocats, The (1970)",Q184701,passes,passes,G,0.64,78,United States of America,0,0
-103,All Dogs Go to Heaven 2 (1996),Q2413112,,,,0.2,82,United States of America,0,0
+103,All Dogs Go to Heaven 2 (1996),Q1067080,passes,,,0.44,85,Republic of Ireland|United States of America|United Kingdom,0,0
 104,Theodore Rex (1995),Q7781965,,,,,,,0,0
 105,Sgt. Bilko (1996),Q1642448,,,,0.31,90,United States of America,0,0
 106,Diabolique (1996),Q617117,,,,0.18,104,United States of America,0,0
@@ -187,7 +187,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 186,"Blues Brothers, The (1980)",Q1344949,,,,,,United States of America,0,0
 187,"Godfather: Part II, The (1974)",Q184768,fails,,R,0.96,202,United States of America,6,11
 188,Full Metal Jacket (1987),Q243439,fails,,,0.9,116,United States of America|United Kingdom,0,1
-189,"Grand Day Out, A (1992)",Q10534956,,,,,,,0,0
+189,"Grand Day Out, A (1992)",Q301426,,,,,,,0,0
 190,Henry V (1989),Q114115,passes,,,1,137,United Kingdom,1,3
 191,Amadeus (1984),Q190956,passes,,PG,0.89,161,United States of America,8,11
 192,Raging Bull (1980),Q220780,fails,,,0.94,124,United States of America,2,8
@@ -240,7 +240,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 239,Sneakers (1992),Q497082,fails,,,0.79,126,United States of America,0,0
 240,Beavis and Butt-head Do America (1996),Q111947995,,,,,86,United States of America,0,0
 241,"Last of the Mohicans, The (1992)",Q144483,fails,,,0.93,112,United States of America,1,1
-242,Kolya (1996),Q1141186,,fails,,0.96,101,France|United Kingdom|Czech Republic,1,1
+242,Kolya (1996),Q1141186,,fails,,0.96,101,United Kingdom|France|Czech Republic,1,1
 243,Jungle2Jungle (1997),Q777632,fails,,,0.19,100,United States of America,0,0
 244,Smilla's Sense of Snow (1997),Q643847,passes,,,0.53,116,Sweden|Denmark|Germany,0,0
 245,"Devil's Own, The (1997)",Q521094,,,,0.35,107,United States of America,0,0
@@ -281,7 +281,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 280,Up Close and Personal (1996),Q777776,,,,0.31,119,United States of America,0,0
 281,"River Wild, The (1994)",Q451630,,,,0.56,108,United States of America,0,0
 282,"Time to Kill, A (1996)",Q498867,,,R,0.68,143,United States of America,0,0
-283,Emma (1996),Q226248,,,,,,,0,0
+283,Emma (1996),Q1338008,passes,,,0.85,121,United States of America|United Kingdom,1,2
 284,Tin Cup (1996),Q1092399,passes,,,0.72,129,United States of America,0,0
 285,Secrets & Lies (1996),Q391172,passes,passes,,0.95,142,United Kingdom,0,5
 286,"English Patient, The (1996)",Q63026,passes,passes,,0.86,162,United States of America|United Kingdom,9,12
@@ -381,7 +381,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 380,Star Trek: Generations (1994),Q723679,passes,,PG,0.47,118,United States of America,0,0
 381,Muriel's Wedding (1994),Q1348275,passes,,,0.79,101,France|Australia,0,0
 382,"Adventures of Priscilla, Queen of the Desert, The (1994)",Q255328,passes,,,0.96,104,Australia,1,1
-383,"Flintstones, The (1994)",Q201358,,,,,30,United States of America,0,0
+383,"Flintstones, The (1994)",Q602094,passes,,PG,0.2,87,United States of America,0,0
 384,Naked Gun 33 1/3: The Final Insult (1994),Q385309,fails,,PG-13,0.54,79,United States of America,0,0
 385,True Lies (1994),Q110397,passes,,,0.71,141,United States of America,0,1
 386,Addams Family Values (1993),Q204725,passes,,PG-13,0.77,90,United States of America,0,1
@@ -459,7 +459,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 458,Nixon (1995),Q839042,,,,0.75,192,United States of America,0,4
 459,"Cry, the Beloved Country (1995)",Q3392374,,,,0.85,106,United States of America|South Africa,0,0
 460,"Crossing Guard, The (1995)",Q1141286,,,,0.75,111,United States of America,0,0
-461,Smoke (1995),Q310551,,,,,,,0,0
+461,Smoke (1995),Q130768,,,,,,,0,0
 462,Like Water For Chocolate (Como agua para chocolate) (1992),Q5196238,passes,,,0.87,113,Mexico,0,0
 463,"Secret of Roan Inish, The (1994)",Q2255971,passes,,,0.96,104,United States of America,0,0
 464,Vanya on 42nd Street (1994),Q736349,,,,0.89,120,United States of America,0,0
@@ -520,13 +520,13 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 519,"Treasure of the Sierra Madre, The (1948)",Q251559,fails,,,1,126,United States of America,3,4
 520,"Great Escape, The (1963)",Q110354,fails,,,0.94,165,United States of America,0,1
 521,"Deer Hunter, The (1978)",Q201674,fails,,,,182,United States of America,5,9
-522,Down by Law (1986),Q192409,fails,fails,R,0.87,107,United States of America|Germany,0,0
+522,Down by Law (1986),Q1209402,,,,,,,0,0
 523,Cool Hand Luke (1967),Q684150,fails,,GP,1,123,United States of America,1,4
 524,"Great Dictator, The (1940)",Q109116,passes,,G,0.92,125,United States of America,0,5
 525,"Big Sleep, The (1946)",Q1137931,fails,,,0.97,114,United States of America,0,0
 526,Ben-Hur (1959),Q180098,passes,,G,0.85,222,United States of America,11,12
 527,Gandhi (1982),Q202211,fails,,,0.89,181,United Kingdom|India,8,11
-528,"Killing Fields, The (1984)",Q494582,,,,0.93,139,United Kingdom,3,7
+528,"Killing Fields, The (1984)",Q634883,,,,,2289,,0,0
 529,My Life as a Dog (Mitt liv som hund) (1985),Q1342900,fails,,,1,101,Sweden,0,2
 530,"Man Who Would Be King, The (1975)",Q1042931,,,PG,0.97,129,United States of America|United Kingdom,0,4
 531,Shine (1996),Q826494,fails,fails,,0.91,105,Australia,1,7
@@ -584,7 +584,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 583,Romeo Is Bleeding (1993),Q624857,,,,0.27,105,United States of America|United Kingdom,0,0
 584,"Secret Garden, The (1993)",Q525421,passes,,,0.88,98,United States of America|United Kingdom,0,0
 585,Son in Law (1993),Q1137790,,,,0.21,95,United States of America,0,0
-586,Terminal Velocity (1994),Q614981,,,,,,,0,0
+586,Terminal Velocity (1994),Q25760,,,,0.19,102,United States of America,0,0
 587,"Hour of the Pig, The (1993)",Q7740486,,,,0.75,112,France|United Kingdom,0,0
 588,Beauty and the Beast (1991),Q179673,passes,passes,G,0.94,84,United States of America,1,3
 589,"Wild Bunch, The (1969)",Q994481,,,R,0.9,145,United States of America,0,2
@@ -596,7 +596,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 595,"Fan, The (1996)",Q390299,fails,,,0.37,111,United States of America,0,0
 596,"Hunchback of Notre Dame, The (1996)",Q191380,,,,,,France,0,0
 597,Eraser (1996),Q370326,passes,,,0.38,110,United States of America,0,1
-598,"Big Squeeze, The (1996)",Q591279,,,,,,United Kingdom,0,0
+598,"Big Squeeze, The (1996)",Q7582215,,,,,,,0,0
 599,Police Story 4: Project S (Chao ji ji hua) (1993),Q1144956,,,,0.96,95,Hong Kong,0,0
 600,Daniel Defoe's Robinson Crusoe (1996),Q517910,,,,,105,United States of America,0,0
 601,For Whom the Bell Tolls (1943),Q515572,,,,0.71,170,United States of America,1,9
@@ -630,7 +630,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 629,Victor/Victoria (1982),Q936037,passes,,,0.97,132,United States of America|United Kingdom,1,7
 630,"Great Race, The (1965)",Q304366,,,,0.75,152,United States of America,1,4
 631,"Crying Game, The (1992)",Q3986479,,,,,,,0,0
-632,Sophie's Choice (1982),Q165627,passes,,,0.78,144,United States of America,1,5
+632,Sophie's Choice (1982),Q1174841,,,,,,,0,0
 633,"Christmas Carol, A (1938)",Q181248,,,,1,69,United States of America,0,0
 634,Microcosmos: Le peuple de l'herbe (1996),Q675044,,,,0.97,80,Italy|Switzerland|France,0,0
 635,"Fog, The (1980)",Q500403,passes,passes,,0.75,90,United States of America,0,0
@@ -743,7 +743,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 742,Ransom (1996),Q752362,,,,0.75,116,United States of America,0,0
 743,"Crow: City of Angels, The (1996)",Q302181,,,,0.11,82,United States of America,0,0
 744,Michael Collins (1996),Q430535,fails,fails,R,0.77,133,Republic of Ireland|United States of America|France|United Kingdom,0,2
-745,"Ruling Class, The (1972)",Q1890531,,,,0.83,154,United Kingdom,0,1
+745,"Ruling Class, The (1972)",Q27790857,,,,,,,0,0
 746,Real Genius (1985),Q1730419,fails,,,0.74,108,United States of America,0,0
 747,Benny & Joon (1993),Q793074,fails,passes,,0.76,99,United States of America,0,0
 748,"Saint, The (1997)",Q1753817,,,,0.3,111,United States of America,0,0
@@ -810,7 +810,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 809,Rising Sun (1993),Q1217573,fails,,,0.33,124,United States of America,0,0
 810,"Shadow, The (1994)",Q1546938,fails,,,0.35,108,United States of America,0,0
 811,Thirty-Two Short Films About Glenn Gould (1993),Q7785228,,,,0.92,93,Canada,0,0
-812,Andre (1994),Q112082193,,,,,,,0,0
+812,Andre (1994),Q501407,,,,0.5,94,United States of America,0,0
 813,"Celluloid Closet, The (1995)",Q535096,passes,,,0.97,107,United States of America,0,0
 814,"Great Day in Harlem, A (1994)",Q300425,,,,,,,0,0
 815,One Fine Day (1996),Q743487,,,,0.51,105,United States of America,0,0
@@ -850,7 +850,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 849,Days of Thunder (1990),Q5243398,,,,,,United Kingdom|Australia,0,0
 850,"Perfect Candidate, A (1996)",Q4658759,,,,0.88,,United States of America,0,0
 851,Two or Three Things I Know About Her (1966),Q232217,,,,0.94,90,Italy|France,0,0
-852,"Bloody Child, The (1996)",Q13587273,,,,,,,0,0
+852,"Bloody Child, The (1996)",Q841042,,,,,,Republic of Ireland,0,0
 853,Braindead (1992),Q897429,passes,,,0.88,104,New Zealand,0,0
 854,Bad Taste (1987),Q605204,fails,,,0.71,88,New Zealand,0,0
 855,Diva (1981),Q735383,fails,,,0.96,123,France,0,0
@@ -887,7 +887,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 886,"Life Less Ordinary, A (1997)",Q496907,fails,,,0.41,99,United States of America|United Kingdom,0,0
 887,Eve's Bayou (1997),Q3284333,passes,,,0.82,109,United States of America,0,0
 888,One Night Stand (1997),Q1616030,,,,0.32,100,United States of America,0,0
-889,"Tango Lesson, The (1997)",Q545616,,,,0.53,101,Netherlands|France|United Kingdom|Germany|Argentina,0,0
+889,"Tango Lesson, The (1997)",Q545616,,,,0.53,101,Argentina|Netherlands|France|United Kingdom|Germany,0,0
 890,Mortal Kombat: Annihilation (1997),Q426837,passes,,,0.04,98,United States of America,0,0
 891,Bent (1997),Q697393,,,NC-17,0.73,108,Japan|United Kingdom,0,0
 892,Flubber (1997),Q1325217,fails,,,0.24,90,United States of America,0,0
@@ -895,7 +895,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 894,Home Alone 3 (1997),Q382320,passes,,,0.32,102,United States of America,0,0
 895,Scream 2 (1997),Q270599,passes,passes,,0.81,120,United States of America,0,0
 896,"Sweet Hereafter, The (1997)",Q135315,,,,0.98,112,Canada,0,2
-897,Time Tracers (1995),Q370228,,,,,,,0,0
+897,Time Tracers (1995),Q619942,,,,,,,0,0
 898,"Postman, The (1997)",Q1122688,fails,,,0.08,177,United States of America,0,0
 899,"Winter Guest, The (1997)",Q2566986,passes,passes,,0.65,108,United States of America|United Kingdom,0,0
 900,Kundun (1997),Q944291,,,,0.75,134,United States of America,0,4
@@ -952,7 +952,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 951,"Indian in the Cupboard, The (1995)",Q1194561,,,,0.73,96,United States of America,0,0
 952,Blue in the Face (1995),Q2478977,,,,0.43,83,United States of America,0,0
 953,Unstrung Heroes (1995),Q2562722,,,,0.75,93,United States of America,0,1
-954,Unzipped (1995),Q3951309,,,,0.8,73,United States of America,0,0
+954,Unzipped (1995),Q7897861,,,,,,,0,0
 955,Before Sunrise (1995),Q659609,passes,passes,R,1,97,United States of America|Switzerland|Austria,0,0
 956,Nobody's Fool (1994),Q1551887,,,,0.91,105,United States of America,0,2
 957,Pushing Hands (1992),Q702270,,,,,105,United States of America|Taiwan,0,0
@@ -967,7 +967,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 966,"Affair to Remember, An (1957)",Q303719,fails,,,0.65,119,United States of America,0,3
 967,Little Lord Fauntleroy (1936),Q1199248,,,,0.88,102,United States of America,0,0
 968,"Inspector General, The (1949)",Q1089010,,,,0.9,102,United States of America,0,0
-969,Winnie the Pooh and the Blustery Day (1968),Q1378605,,,,,25,United States of America,1,1
+969,Winnie the Pooh and the Blustery Day (1968),Q1427030,,,,,,,0,0
 970,Hear My Song (1991),Q1592367,,,,0.9,113,Republic of Ireland|United Kingdom,0,0
 971,Mediterraneo (1991),Q661660,fails,,,0.79,96,Italy,1,1
 972,Passion Fish (1992),Q431772,passes,,,1,135,United States of America,0,2
@@ -1042,7 +1042,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1041,Forget Paris (1995),Q1760597,,,,0.5,97,United States of America,0,0
 1042,Just Cause (1995),Q1659511,,,,0.26,98,United States of America,0,0
 1043,Rent-a-Kid (1995),Q2977849,,,,,,United States of America,0,0
-1044,"Paper, The (1994)",Q1747211,,,,0.88,107,United States of America,0,0
+1044,"Paper, The (1994)",Q205299,,,,,,,0,0
 1045,Fearless (1993),Q255742,,,,0.85,117,United States of America,0,1
 1046,Malice (1993),Q1740859,,,,0.57,102,United States of America,0,0
 1047,Multiplicity (1996),Q774732,,,,0.43,113,United States of America,0,0
@@ -1099,7 +1099,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1098,Flirting With Disaster (1996),Q1428990,,,,0.87,89,United States of America,0,0
 1099,"Red Firecracker, Green Firecracker (1994)",Q588748,,,,,,,0,0
 1100,What Happened Was... (1994),Q7991117,,,R,0.91,,United States of America,0,0
-1101,Six Degrees of Separation (1993),Q1169609,passes,,,0.88,107,United States of America,0,1
+1101,Six Degrees of Separation (1993),Q2855754,,,,,,,0,0
 1102,Two Much (1996),Q1971683,,,,0.14,113,Spain|United States of America,0,0
 1103,Trust (1990),Q2545805,,,R,0.83,107,United States of America,0,0
 1104,C'est arrivé près de chez vous (1992),Q491871,,fails,NC-17,0.74,95,Belgium,0,0
@@ -1128,7 +1128,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1127,"Truman Show, The (1998)",Q214801,fails,,,0.95,99,United States of America,0,3
 1128,Heidi Fleiss: Hollywood Madam (1995) ,Q271732,,,,,,,0,0
 1129,Chungking Express (1994),Q766263,fails,passes,PG-13,0.89,102,Hong Kong,0,0
-1130,Jupiter's Wife (1994),Q4649,,,,,,,0,0
+1130,Jupiter's Wife (1994),Q2481791,,,,,95,United States of America,0,0
 1131,Safe (1995),Q2731453,passes,passes,R,0.87,119,United States of America|United Kingdom,0,0
 1132,Feeling Minnesota (1996),Q1937392,,,,0.14,95,United States of America,0,0
 1133,Escape to Witch Mountain (1975),Q1212511,,,,0.76,97,United States of America,0,0
@@ -1249,7 +1249,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1248,Blink (1994),Q2624390,,,,,,,0,0
 1249,For Love or Money (1993),Q947617,,,,0.37,91,United States of America,0,0
 1250,Best of the Best 3: No Turning Back (1995),Q830361,,,,,94,United States of America,0,0
-1251,A Chef in Love (1996),Q1444948,,,,0.64,100,Russia|France,0,1
+1251,A Chef in Love (1996),Q1444948,,,,0.64,100,France|Russia,0,1
 1252,"Contempt (Mépris, Le) (1963)",Q598109,fails,,,0.91,102,Italy|France,0,0
 1253,"Tie That Binds, The (1995)",Q740069,,,,0.08,92,United States of America,0,0
 1254,Gone Fishin' (1997),Q1192024,,,,0.04,90,United States of America,0,0
@@ -1270,7 +1270,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1269,Love in the Afternoon (1957),Q630855,,,,0.85,130,United States of America,0,0
 1270,Life with Mikey (1993),Q839265,,,,0.25,91,United States of America,0,0
 1271,North (1994),Q1072666,,,,0.14,95,United States of America,0,0
-1272,Talking About Sex (1994),Q7776942,,,,,,,0,0
+1272,Talking About Sex (1994),Q7535293,,,,,,,0,0
 1273,Color of Night (1994),Q1111228,passes,,,0.22,134,United States of America,0,0
 1274,Robocop 3 (1993),Q841233,passes,,PG-13,0.06,101,United States of America,0,0
 1275,Killer (Bulletproof Heart) (1994),Q1983074,,,,0.63,94,United States of America,0,0
@@ -1343,6 +1343,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1342,"Convent, The (Convento, O) (1995)",Q2421084,,,,0.38,92,Portugal|France,0,0
 1343,Lotto Land (1995),Q38463332,,,,,,United States of America,0,0
 1344,"Story of Xinghua, The (1993)",Q377593,,,,,,,0,0
+1345,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)",entityNotFound,,,,,,,,
 1346,Dingo (1992),Q38584,,,,,,,0,0
 1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)",Q2480468,,,,,108,Japan,0,0
 1348,Every Other Weekend (1990),Q5417570,,,,,,United States of America,0,0
@@ -1350,9 +1351,9 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1350,Crows and Sparrows (1949),Q5189588,,,,,113,People's Republic of China,0,0
 1351,Lover's Knot (1996),Q7847570,,,,,,,0,0
 1352,Shadow of Angels (Schatten der Engel) (1976),Q3204512,,,,,101,Switzerland|Germany,0,0
-1353,1-900 (1994),Q110880261,,,,,,,0,0
+1353,1-900 (1994),Q420929,,,,,,,0,0
 1354,Venice/Venice (1992),Q641,,,,,,,0,0
-1355,Infinity (1996),Q205,,,,,,,0,0
+1355,Infinity (1996),Q1993812,,,,0.62,119,United States of America,0,0
 1356,Ed's Next Move (1996),Q5334453,,,,0.8,,United States of America,0,0
 1357,For the Moment (1994),Q5467111,,,,,120,Canada,0,0
 1358,The Deadly Cure (1996),Q28404635,,,,,,,0,0
@@ -1360,7 +1361,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1360,"Sexual Life of the Belgians, The (1994)",Q926885,,,,,90,Belgium,0,0
 1361,"Search for One-eye Jimmy, The (1996)",Q3612320,,,,,,United States of America,0,0
 1362,American Strays (1996),Q4401429,,,,,97,United States of America,0,0
-1363,"Leopard Son, The (1996)",Q1281022,,,,,,,0,0
+1363,"Leopard Son, The (1996)",Q1700510,,,,,,,0,0
 1364,Bird of Prey (1996),Q833233,,,,,,,0,0
 1365,Johnny 100 Pesos (1993),Q5933802,,,,,90,Mexico|Chile,0,0
 1366,JLG/JLG - autoportrait de décembre (1994),Q53001,,,,,,,1,0
@@ -1372,7 +1373,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1372,"Stranger, The (1994)",Q166511,,,,,,,0,0
 1373,Good Morning (1971),Q5582793,,,,,,,0,0
 1374,Falling in Love Again (1980),Q3064787,,,,,103,United States of America,0,0
-1375,"Cement Garden, The (1993)",Q1198186,,,,,,United Kingdom,0,0
+1375,"Cement Garden, The (1993)",Q1916423,,,,0.82,105,France|United Kingdom|Germany,0,0
 1376,Meet Wally Sparks (1997),Q10328192,,,,0.13,105,United States of America,0,0
 1377,Hotel de Love (1996),Q5912157,,,,0.22,95,Australia,0,0
 1378,Rhyme & Reason (1997),Q7321634,,,,,,,0,0
@@ -1395,7 +1396,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1395,Hurricane Streets (1998),Q5948336,,,,0.88,86,United States of America,0,0
 1396,Stonewall (1995),Q2738970,,,,0.63,99,United States of America|United Kingdom,0,0
 1397,Of Human Bondage (1934),Q1164789,fails,fails,,0.86,83,United States of America,0,1
-1398,Anna (1996),Q4767138,,,,,,Philippines,0,0
+1398,Anna (1996),Q180710,,,,,,,0,0
 1399,Stranger in the House (1997),Q7621554,,,,,,,0,0
 1400,Picture Bride (1995),Q837939,passes,,,0.82,95,Japan|United States of America,0,0
 1401,M. Butterfly (1993),Q1513195,,,,0.43,101,United States of America,0,0
@@ -1491,7 +1492,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1491,Tough and Deadly (1995),Q35358,,,,,,,0,0
 1492,Window to Paris (1994),Q3469484,,,,,90,France|Russia,0,0
 1493,"Modern Affair, A (1995)",Q173457,,,,,,,0,0
-1494,"Mostro, Il (1994)",Q19352,,,,0.4,112,Italy|France,0,0
+1494,"Mostro, Il (1994)",Q1945341,,,,,,,0,0
 1495,Flirt (1995),Q3269372,,,,0.8,85,Japan|United States of America|Germany,0,0
 1496,Carpool (1996),Q1924207,,,,0.13,89,United States of America,0,0
 1497,"Line King: Al Hirschfeld, The (1996)",Q7747408,,,,,86,United States of America,0,1
@@ -1519,7 +1520,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1519,New Jersey Drive (1995),Q81597,,,,0.62,98,United States of America,0,0
 1520,"Fear, The (1995)",Q3518732,,,,,98,United States of America,0,0
 1521,Mr. Wonderful (1993),Q538909,,,,0.52,95,United States of America,0,0
-1522,Trial by Jury (1994),Q2151912,,,,0.08,107,United States of America,0,0
+1522,Trial by Jury (1994),Q13368786,,,,,,,0,0
 1523,"Good Man in Africa, A (1994)",Q300423,,,,0.1,92,United States of America|South Africa,0,0
 1524,Kaspar Hauser (1993),Q44600,,,,,,,0,0
 1525,"Object of My Affection, The (1998)",Q1545178,,,,0.52,107,United States of America,0,0
@@ -1546,7 +1547,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1546,Shadows (Cienie) (1988),Q6612833,,,,,,,0,0
 1547,"Show, The (1995)",Q7764003,,,,0.8,,United States of America,0,0
 1548,The Courtyard (1995),Q309250,,,,,,,0,0
-1549,Dream Man (1995),Q1421355,,,,0.81,105,United States of America,0,3
+1549,Dream Man (1995),Q36348,,,,,,,0,0
 1550,Destiny Turns on the Radio (1995),Q2546056,,,,0.17,102,United States of America,0,0
 1551,"Glass Shield, The (1994)",Q4441559,,,,0.65,,United States of America,0,0
 1552,"Hunted, The (1995)",Q2736281,,,,0.08,106,United States of America,0,0
@@ -1564,8 +1565,9 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1564,To Cross the Rubicon (1991),Q172572,,,,,,,0,0
 1565,Daens (1992),Q1675401,,,,,138,Belgium|Netherlands|France,0,1
 1566,"Man from Down Under, The (1943)",Q7750028,,,,,103,United States of America,0,0
-1567,Careful (1992),Q2404081,,,,0.83,100,Canada,0,0
+1567,Careful (1992),Q5038966,,,,,,,0,0
 1568,Vermont Is For Lovers (1992),Q7921729,,,,,,United States of America,0,0
+1569,"Vie est belle, La (Life is Rosey) (1987)",entityNotFound,,,,,,,,
 1570,Quartier Mozart (1992),Q327726,,,,,,,0,0
 1571,Touki Bouki (Journey of the Hyena) (1973),Q3310901,,,,0.86,85,Senegal,0,0
 1572,Wend Kuuni (God's Gift) (1982),Q3222399,,,,,75,Burkina Faso,0,0
@@ -1581,7 +1583,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1582,T-Men (1947),Q654474,,,,,92,United States of America,0,1
 1583,"Invitation, The (Zaproszenie) (1986)",Q437696,,,,,,,0,0
 1584,"Symphonie pastorale, La (1946)",Q1215348,,,,,,France,0,0
-1585,American Dream (1990),Q463994,,,,1,98,United States of America|United Kingdom,1,0
+1585,American Dream (1990),Q214100,,,,,,,0,0
 1586,Lashou shentan (1992),Q573823,fails,,,0.94,123,Hong Kong,0,0
 1587,Terror in a Texas Town (1958),Q3518734,,,,,80,United States of America,0,0
 1588,Salut cousin! (1996),Q3470289,,,,,98,Belgium|Luxembourg|France|Algeria,0,0
@@ -1612,7 +1614,7 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1613,Tokyo Fist (1995),Q3530527,,,,,87,Japan,0,0
 1614,"Reluctant Debutante, The (1958)",Q2326899,,,,,94,United States of America,0,0
 1615,Warriors of Virtue (1997),Q3233113,,,,0.18,103,United States of America|People's Republic of China,0,0
-1616,Desert Winds (1995),Q1330018,,,,,,,0,0
+1616,Desert Winds (1995),Q8514,,,,,,,0,0
 1617,Hugo Pool (1997),Q1921451,,,,0.31,92,United States of America,0,0
 1618,King of New York (1990),Q775586,,,,0.71,106,United States of America|Italy,0,0
 1619,All Things Fair (1996),Q1675604,,,,,130,Sweden,0,1
@@ -1626,10 +1628,11 @@ itemID,title,wikiID,bechdelOutcomeLabel,makoMoriOutcomeLabel,mpaRatingLabel,toma
 1627,"Wife, The (1995)",Q7774795,,,,,,United States of America,0,0
 1628,Lamerica (1994),Q1738422,,fails,,0.91,116,Italy|France,0,0
 1629,Nico Icon (1995),Q44634,,,,,,,0,0
-1630,"Silence of the Palace, The (Saimt el Qusur) (1994)",Q2746780,,,,,127,France|Tunisia,0,0
+1630,"Silence of the Palace, The (Saimt el Qusur) (1994)",Q2746780,,,,,127,Tunisia|France,0,0
 1631,"Slingshot, The (1993)",Q4395391,,,,0.89,102,Sweden,0,0
 1632,Land and Freedom (Tierra y libertad) (1995),Q643805,fails,fails,,0.79,109,Spain|Italy|France|United Kingdom|Germany,0,0
 1633,Á köldum klaka (Cold Fever) (1994),Q1107800,,fails,,0.95,85,Iceland,0,0
+1634,Etz Hadomim Tafus (Under the Domin Tree) (1994),entityNotFound,,,,,,,,
 1635,Two Friends (1986) ,Q232181,,,,,78,Australia,0,0
 1636,Brothers in Trouble (1995),Q5496715,,,,,,,0,0
 1637,Girls Town (1996),Q5564667,passes,,,0.88,90,United States of America,0,0
