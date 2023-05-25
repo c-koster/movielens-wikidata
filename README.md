@@ -31,7 +31,11 @@ My goal for this project was to extract movie item features from Wikidata and se
 
 ### Results
 Results are listed in a table below.
-
+| model     | description                                                                               | precision | recall |
+|-----------|-------------------------------------------------------------------------------------------|-----------|--------|
+| baseline  | LightFM model with no user or item features                                               | 0.148     | 0.045  |
+| grouplens | LightFM model with user and item features from grouplens and                              | 0.163     | 0.062  |
+| wiki      | LightFM model with grouplens user/item features and item features extracted from wikidata | 0.171     | 0.064  |
 
 ### Notes 
 - I only had 1682 movies in the 100k dataset and it was infeasible to include actors/directors as features (if I made a column for each actor and director I would have had many more features than movies).
