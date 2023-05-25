@@ -39,4 +39,4 @@ Results are listed in a table below.
 
 ### Notes 
 - I only had 1682 movies in the 100k dataset and it was infeasible to include actors/directors as features (if I made a column for each actor and director I would have had many more features than movies).
-- While writing queries, i focused on extracting features that might be useful for a US audience (e.g. MPA ratings, nominations & award counts from a US-based awards ceremony). This is because most <all?> users in the grouplens dataset have american postal codes. 
+- While writing queries, i focused on extracting features that might be useful for a US audience (e.g. MPA ratings, nominations & award counts from a US-based awards ceremony). This is because most users in the grouplens dataset have american postal codes. 
