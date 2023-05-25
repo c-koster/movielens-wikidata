@@ -14,7 +14,7 @@ My goal for this project was to extract movie item features from Wikidata and se
 
 
 ### Contents 
-- [extract.ipynb](./extract.ipynb) extracts movie features in two steps. first it searches the movie title for a matching wikidata entry. Next, using the wikidata query service, it extracts the following features:
+- [extract.ipynb](./extract.ipynb) extracts movie features in two steps. first it searches the movie title for a matching wikidata entry. Next, using the [wikidata query service](https://query.wikidata.org/), it extracts the following features from the wikidata knowledge base using SPARQL queries:
     - MPA rating
     - Bechdel and Mako Mori tests (passes/fails)
     - rotten tomatoes score ranging from 0.00 to 1.00
@@ -25,8 +25,7 @@ My goal for this project was to extract movie item features from Wikidata and se
 
 - [train.ipynb](./train.ipynb) includes <training and eval for > a hybrid matrix factorization model. I picked [LightFM]() as it is easy to add custom features.
 
-- [data](./data/) contains the csv file that comes out of the extract notebook
-
+- [data](./data/) contains the csv file that comes out of the extract notebook.
 
 
 ### Results
